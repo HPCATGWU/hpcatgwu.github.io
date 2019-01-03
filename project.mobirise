@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT1220",
-    "currentPage": "Books.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5940,7 +5940,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Index.html#content9-21\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
               {
