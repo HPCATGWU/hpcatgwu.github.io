@@ -15112,7 +15112,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br></b><br><br><br><b>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><b><br></b><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
