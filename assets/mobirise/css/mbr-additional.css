@@ -1814,9 +1814,18 @@ body {
 }
 .cid-r8Kznbxt0r H1 {
   color: #ffffff;
+  text-align: right;
 }
 .cid-r8Kznbxt0r B {
   color: #ffffff;
+}
+.cid-r8Kznbxt0r h1 {
+  color: white;
+  -webkit-text-stroke: 1px #696969;
+  letter-spacing: 0.04em;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: left;
 }
 .cid-r8KBrkP8mb {
   padding-top: 90px;
