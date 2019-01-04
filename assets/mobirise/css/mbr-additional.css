@@ -1974,9 +1974,10 @@ body {
 }
 .cid-r8KtEk5gDS H3 {
   color: #2e2e2e;
+  text-align: center;
 }
 .cid-r8KtEk5gDS H1 {
-  text-align: left;
+  text-align: center;
   color: #000000;
 }
 .cid-r8KtEk5gDS P {
@@ -1990,6 +1991,9 @@ body {
 }
 .cid-r8KtEk5gDS B {
   color: #000000;
+}
+.cid-r8KtEk5gDS .container {
+  max-width: 1800px;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
