@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT1220",
-    "currentPage": "Books.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -14656,6 +14656,12 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_name": "slider1",
@@ -14688,10 +14694,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#content9-21\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14706,10 +14712,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14724,10 +14730,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14742,10 +14748,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Index.html#content9-21\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14760,10 +14766,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14778,10 +14784,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14796,10 +14802,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14814,10 +14820,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14832,10 +14838,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14850,10 +14856,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14868,10 +14874,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14886,10 +14892,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Journal.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14904,10 +14910,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"Index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"Index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               },
@@ -14922,10 +14928,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><br><br><br><br>HPCAT LAB</b>",
+                "title": "<b><br><br><br><br></b><br><br><br><b>HPCAT LAB</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES (HPCAT) LAB</b>",
+                "text": "<b>HIGH PERFORMANCE COMPUTING ARCHITECTURES &amp; TECHNOLOGIES LAB</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"index.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Director</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#content9-21\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
                 "overlayOpacity": "0.2"
               }

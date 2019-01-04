@@ -13518,6 +13518,12 @@ body {
 .cid-r8KRcrd1Cl .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-r8KRcrd1Cl H2 {
+  text-align: right;
+}
+.cid-r8KRcrd1Cl P {
+  text-align: right;
+}
 .cid-r8KVMAhk8D {
   padding-top: 120px;
   padding-bottom: 120px;
