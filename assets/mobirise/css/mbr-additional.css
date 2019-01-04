@@ -1960,7 +1960,9 @@ body {
   background-image: url("../../../assets/images/hpcat-prof-5-2000x133319.jpg");
 }
 .cid-r8KtEk5gDS h1 {
-  color: #616161;
+  color: black;
+  -webkit-text-stroke: 1px #ffffff;
+  font-weight: bold;
 }
 .cid-r8KtEk5gDS h2,
 .cid-r8KtEk5gDS h3,
@@ -1975,11 +1977,19 @@ body {
 }
 .cid-r8KtEk5gDS H1 {
   text-align: left;
-  color: #2e2e2e;
+  color: #000000;
 }
 .cid-r8KtEk5gDS P {
   color: #000000;
   text-align: left;
+}
+.cid-r8KtEk5gDS h3 {
+  color: black;
+  -webkit-text-stroke: 1px #ffffff;
+  font-weight: bold;
+}
+.cid-r8KtEk5gDS B {
+  color: #000000;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;

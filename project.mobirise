@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT1220",
-    "currentPage": "index.html",
+    "currentPage": "Director.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -741,7 +741,9 @@
               "background-image": "url(@bg-value)"
             },
             "h1": {
-              "color": "#616161"
+              "color": "black",
+              "-webkit-text-stroke": "1px #ffffff",
+              "font-weight": "bold"
             },
             "h2, h3, p": {
               "color": "#767676"
@@ -754,11 +756,19 @@
             },
             "H1": {
               "text-align": "left",
-              "color": "#2e2e2e"
+              "color": "#000000"
             },
             "P": {
               "color": "#000000",
               "text-align": "left"
+            },
+            "h3": {
+              "color": "black",
+              "-webkit-text-stroke": "1px #ffffff",
+              "font-weight": "bold"
+            },
+            "B": {
+              "color": "#000000"
             }
           },
           "_name": "header9",
@@ -768,7 +778,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
