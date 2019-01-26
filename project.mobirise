@@ -12275,16 +12275,16 @@
             },
             ".testimonial-text": {
               "font-style": "italic",
-              "color": "#000000",
+              "color": "#000001",
               "font-weight": "300"
             },
             ".mbr-author-name": {
               "font-weight": "bold",
-              "color": "#000000",
+              "color": "#000001",
               "text-align": "right"
             },
             ".mbr-author-desc": {
-              "color": "#000000",
+              "color": "#000001",
               "text-align": "right"
             }
           },
@@ -12297,7 +12297,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
