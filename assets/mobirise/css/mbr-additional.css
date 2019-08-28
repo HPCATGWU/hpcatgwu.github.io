@@ -11433,6 +11433,27 @@ body {
 .cid-rcOtNqebcA H2 {
   text-align: center;
 }
+.cid-rArZffdBXt {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rArZffdBXt .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #000000;
+}
+.cid-rArZffdBXt .mbr-author-name {
+  font-weight: bold;
+  color: #000000;
+}
+.cid-rArZffdBXt .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rArZffdBXt .mbr-author-desc {
+  color: #000000;
+}
 .cid-rzSOsqYNvB {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -14270,6 +14291,98 @@ body {
     bottom: 0;
   }
   .cid-rdoDiy2J7C .btn {
+    opacity: 1;
+  }
+}
+.cid-rArXT0IHyL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rArXT0IHyL .card-wrapper {
+  overflow: hidden;
+  height: 100%;
+  color: #444444;
+  padding: 0;
+}
+.cid-rArXT0IHyL .line-wrap {
+  display: inline-block;
+  width: 100%;
+}
+.cid-rArXT0IHyL .line {
+  display: inline-block;
+  width: 100px;
+  height: 4px;
+  background-color: #0a1c44;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+}
+.cid-rArXT0IHyL .mbr-section-btn {
+  margin-top: 0.5rem;
+}
+.cid-rArXT0IHyL .btn {
+  margin: 0!important;
+  transition: all 0.3s;
+  opacity: 0;
+}
+.cid-rArXT0IHyL .card {
+  padding: 0!important;
+  margin: 0;
+  overflow: hidden;
+}
+.cid-rArXT0IHyL .card:hover .card-box {
+  bottom: 0;
+}
+.cid-rArXT0IHyL .card:hover .btn {
+  opacity: 1;
+}
+.cid-rArXT0IHyL .card-title {
+  color: #ffffff;
+  margin: 0;
+  text-align: left;
+}
+.cid-rArXT0IHyL .card-img {
+  overflow: hidden!important;
+  position: relative;
+  border-radius: 0px;
+}
+.cid-rArXT0IHyL .card-img:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  transition: all 0.3s;
+  background: #232323;
+  opacity: 0.1;
+  z-index: 1;
+  pointer-events: none;
+}
+.cid-rArXT0IHyL .card-box {
+  position: absolute;
+  padding: 1.5rem 1.5rem;
+  bottom: -70px;
+  transition: all 0.3s;
+  width: 100%;
+  left: 0;
+  z-index: 2;
+}
+.cid-rArXT0IHyL .mbr-section-title,
+.cid-rArXT0IHyL .line-wrap {
+  text-align: center;
+}
+.cid-rArXT0IHyL .card-box > p,
+.cid-rArXT0IHyL .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+@media (max-width: 576px) {
+  .cid-rArXT0IHyL .card-box {
+    bottom: 0;
+  }
+  .cid-rArXT0IHyL .btn {
     opacity: 1;
   }
 }
