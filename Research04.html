@@ -72,7 +72,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/t">amp template</a></section><section class="header1 cid-rcO691ik6K mbr-parallax-background" id="header1-3p">
+<section class="engine"><a href="https://mobirise.info/g">how to build a website</a></section><section class="header1 cid-rcO691ik6K mbr-parallax-background" id="header1-3p">
 
     
 
@@ -99,8 +99,8 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">Approximate Communication</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuechen Chen, Dr. Md Farhadur Reza;</h3>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">Accelerating Machine Learning with Approximation<div><br></div></h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuechen Chen;</h3>
                 
             </div>
         </div>
@@ -113,8 +113,39 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div>Recent research has shown that on-chip data movement consumes much more power than computation and this trend will continue in the future. Additionally, some algorithms and applications, such as machine learning, big data analysis, image/video processing and computer vision are tolerant to modest errors.</div><div><br></div><div>These applications are inherently tolerant to some error in their output whether due to noisy input data, multiple correct answers or not requiring very accurate execution. Leveraging this error tolerance can lead to significant energy savings and performance improvements.</div><div><br></div><div>As error correction techniques in data transmission, such as error correction codes and retransmission, consume energy and increase network latency, reducing the amount of error correction can significantly improve network performance. This project exploits the fact that not all applications require strong error correction and investigates approximate communication with dynamic error correction methods to trade-off absolute accurate data transmission for the power savings and transmission time.</div></div>
+            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div>Machine learning algorithms suffer from the high cost of computational complexity and a significant amount of data movement. Recent studies show that machine learning algorithms can tolerate modest errors, thus opening a new design dimension, namely, trading accuracy for better system performance. With reduced accuracy, the multi-core system processes less data and results in less power consumption and execution time. In this project, we explore the possibility of supporting approximation in the multi-core architecture to reduce the time and power consumption on the execution of machine learning algorithms. Further, we are also exploring different approximation method for different memory technology (e.g., HBM, NVM) and architecture (e.g., GPU, FPGA).</div></div>
         </div>
+    </div>
+</section>
+
+<section class="mbr-section article content12 cid-rCU1JsEP0T" id="content6-9d">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Chen and A. Louri, "An Online Quality Management Framework for Approximate Communication in Network-on-Chips", in Proceedings of the 33rd International Conference on Supercomputing (ICS), Phoenix, AZ, June 26-28, 2019.</h3>
+                    <p class="mbr-fonts-style display-7">Approximate communication is being seriously considered as an effective technique for reducing power consumption and improving the communication efficiency of network-on-chips (NoCs). A major problem faced by these techniques is quality control: how do we ensure that the network will transmit data with sufficient accuracy for applications to produce acceptable results? In this paper, we propose a hardware-based quality management framework for approximate communication. The proposed framework employs a configuration algorithm to continuously adjust the quality of every piece of data based on the difference between the output quality and the application's quality requirement. When the proposed framework is implemented in a network, every request packet can be transmitted with the updated approximation level. This framework results in fewer flits in each data packet and reduces traffic in NoCs while meeting the quality requirements of applications. Our cycle-accurate simulation using the AxBench benchmark suite shows that the proposed online quality management framework can reduce network latency by up to 52% and dynamic power consumption by 59% compared to previous approximate communication techniques while ensuring 95% output quality. This hardware-software codesign incurs 1% area overhead over previous techniques.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-rCU1OBXYIw" id="image4-9e">
+    <!-- Block parameters controls (Blue "Gear" panel) -->
+    
+    <!-- End block parameters -->
+    <div class="container images-container">
+            <div class="media-container-row" style="width: 68%;">
+                <div class="img-item item1" style="width: 85%;">
+                    <img src="assets/images/mathematical-model-1220x256.jpg" alt="" title="">
+                    
+                </div>            
+            </div>
     </div>
 </section>
 
@@ -125,7 +156,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">01.</h4>
+                    <h4 class="counter">02.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">Y. Chen, M.F. Reza and A. Louri, “DEC-NoC: An Approximate Framework based on Dynamic Error Control with Applications to Energy-efficient NoCs,”  in Proceedings of the 36th IEEE International Conference on Computer Design (ICCD), Orlando, FL, October 7-10, 2018.</h3>
                     <p class="mbr-fonts-style display-7">Network-on-Chips (NoCs) have emerged as the standard on-chip communication fabrics for multi/manycore systems and system on chips. However, as the number of cores on chip increases, so does power consumption. Recent studies have shown that NoC power consumption can reach up to 40% of the overall chip power. &nbsp;Considerable research efforts have been deployed to significantly reduce NoC power consumption. In this paper, we build on approximate computing techniques and propose an approximate communication methodology called DEC-NoC for reducing NoC power consumption. &nbsp;The proposed DEC-NoC leverages applications' error tolerance and dynamically reduces the amount of error checking and correction in packet transmission, which results in a significant reduction in the number of retransmitted packets. The reduction in packet retransmission results in reduced power consumption. Our cycle accurate simulation using PARSEC benchmark suites shows that DEC-NoC achieves up to 56% latency reduction and up to 58% dynamic power reduction compared to NoC architectures with conventional error control techniques.<br></p>
                 </div>
