@@ -1734,6 +1734,36 @@ section.lazy-placeholder:after {
 .cid-r8KuAgZ9TO .mbr-text DIV {
   color: #000000;
 }
+.cid-sjrdWiHV8D {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-sjrdWiHV8D .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sjrdWiHV8D .video-block {
+    width: 100% !important;
+  }
+}
+.cid-sjrdWLtiXX {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-sjrdWLtiXX .mbr-text,
+.cid-sjrdWLtiXX blockquote {
+  color: #767676;
+}
+.cid-sjrdWLtiXX .mbr-text B {
+  color: #000000;
+}
+.cid-sjrdWLtiXX .mbr-text P {
+  color: #000000;
+  text-align: left;
+}
 .cid-rdPqjbaZ8O {
   padding-top: 60px;
   padding-bottom: 45px;
