@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT_Github",
-    "currentPage": "News.html",
+    "currentPage": "Research04.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 366,
+    "uniqCompNum": 371,
     "versionPublish": "4.11.2",
     "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2018-12-31-at-12.35.34-128x125.png",
     "noImageResize": "",
@@ -9468,7 +9468,229 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen and A. Louri, \"An Online Quality Management Framework for Approximate Communication in Network-on-Chips\", in Proceedings of the 33rd International Conference on Supercomputing (ICS), Phoenix, AZ, June 26-28, 2019.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Approximate communication is being seriously considered as an effective technique for reducing power consumption and improving the communication efficiency of network-on-chips (NoCs). A major problem faced by these techniques is quality control: how do we ensure that the network will transmit data with sufficient accuracy for applications to produce acceptable results? In this paper, we propose a hardware-based quality management framework for approximate communication. The proposed framework employs a configuration algorithm to continuously adjust the quality of every piece of data based on the difference between the output quality and the application's quality requirement. When the proposed framework is implemented in a network, every request packet can be transmitted with the updated approximation level. This framework results in fewer flits in each data packet and reduces traffic in NoCs while meeting the quality requirements of applications. Our cycle-accurate simulation using the AxBench benchmark suite shows that the proposed online quality management framework can reduce network latency by up to 52% and dynamic power consumption by 59% compared to previous approximate communication techniques while ensuring 95% output quality. This hardware-software codesign incurs 1% area overhead over previous techniques.<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">01.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen and A. Louri, “Learning-Based Quality Management for Approximate Communication in Network-on-Chips,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 11, pp. 3724–3735, Nov. 2020, doi: 10.1109/TCAD.2020.3012235.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Current multi/many-core systems spend large amounts of time and power transmitting data across on-chip interconnects. This problem is aggravated when data-intensive applications, such as machine learning and pattern recognition, are executed in these systems. Recent studies show that some data-intensive applications can tolerate modest errors, thus opening a new design dimension, namely, trading result quality for better system performance. In this article, we explore application error tolerance and propose an approximate communication framework to reduce the power consumption and latency of network-on-chips (NoCs). The proposed framework incorporates a quality control method and a data approximation mechanism to reduce the packet size to decrease network power consumption and latency. The quality control method automatically identifies the error-resilient variables that can be approximated during transmission and calculates their error thresholds based on the quality requirements of the application by analyzing the source code. The data approximation method includes a lightweight lossy compression scheme, which significantly reduces packet size when the error-resilient variables are transmitted. This frame- work results in fewer flits in each data packet and reduces traffic in NoCs while guaranteeing the quality requirements of applications. Our cycle-accurate simulation using the AxBench benchmark suite shows that the proposed approximate communication framework achieves 36 percent latency reduction and 46 percent dynamic power reduction compared to previous approximate communication techniques.&nbsp;<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-a9",
+          "_isUserblock": true,
+          "_sourceTheme": "agencym4",
+          "_cid": "srsZ5FLms0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".images-container.container-fluid": {
+              "padding": "0"
+            },
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch",
+              ".img-item": {
+                "display": "-webkit-flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "center",
+                "width": "100%",
+                "z-index": "1",
+                "-webkit-flex-direction": "column",
+                "-webkit-justify-content": "center",
+                "img": {
+                  "width": "100%",
+                  "min-height": "1px"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              },
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important",
+                  "-webkit-flex-basis": "initial !important"
+                }
+              }
+            }
+          },
+          "_name": "image4",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"68\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"85\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/-20210312122856-1220x686.jpeg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Responsive\n                        </p>\n                    </div>\n                </div>            \n            </div>\n    </div>\n</section>",
+          "_anchor": "image4-a7",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "srsZ3c8xsp",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#464646",
+              "div": {
+                "margin-bottom": "1rem",
+                "padding-left": "2rem"
+              },
+              "li": {
+                "list-style": "none",
+                "padding-left": "2rem",
+                "position": "relative"
+              },
+              ".counter": {
+                "text-overflow": "clip",
+                "overflow": "hidden",
+                "white-space": "nowrap",
+                "font-size": "20px",
+                "position": "absolute",
+                "left": "0",
+                "display": "inline-block",
+                "margin": "0 0 5px",
+                "line-height": "20px",
+                "transition": "all .2s",
+                "width": "30px",
+                "height": "20px"
+              }
+            },
+            ".container": {
+              "max-width": "2500px"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen and A. Louri, “An Approximate Communication Framework for Network-on-Chips,” IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 6, pp. 1434–1446, Jun. 2020, doi: 10.1109/TPDS.2020.2968068.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">In this article, we explore application error tolerance and propose an approximate communication framework to reduce the power consumption and latency of network-on-chips (NoCs). The proposed framework incorporates a quality control method and a data approximation mechanism to reduce the packet size to decrease network power consumption and latency. The quality control method automatically identifies the error-resilient variables that can be approximated during transmission and calculates their error thresholds based on the quality requirements of the application by analyzing the source code. The data approximation method includes a lightweight lossy compression scheme, which significantly reduces packet size when the error-resilient variables are transmitted. This framework results in fewer flits in each data packet and reduces traffic in NoCs while guaranteeing the quality requirements of applications. Our cycle-accurate simulation using the AxBench benchmark suite shows that the proposed approximate communication framework achieves 62 percent latency reduction and 43 percent dynamic power reduction compared to previous approximate communication techniques while ensuring 95 percent result quality.&nbsp;<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-aa",
+          "_isUserblock": true,
+          "_sourceTheme": "agencym4",
+          "_cid": "srsZfwXZ0q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".images-container.container-fluid": {
+              "padding": "0"
+            },
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch",
+              ".img-item": {
+                "display": "-webkit-flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "center",
+                "width": "100%",
+                "z-index": "1",
+                "-webkit-flex-direction": "column",
+                "-webkit-justify-content": "center",
+                "img": {
+                  "width": "100%",
+                  "min-height": "1px"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              },
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important",
+                  "-webkit-flex-basis": "initial !important"
+                }
+              }
+            }
+          },
+          "_name": "image4",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"68\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"85\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/-20210312122847-1220x686.jpeg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Responsive\n                        </p>\n                    </div>\n                </div>            \n            </div>\n    </div>\n</section>",
+          "_anchor": "image4-a8",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "srsZ3K8gDK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#464646",
+              "div": {
+                "margin-bottom": "1rem",
+                "padding-left": "2rem"
+              },
+              "li": {
+                "list-style": "none",
+                "padding-left": "2rem",
+                "position": "relative"
+              },
+              ".counter": {
+                "text-overflow": "clip",
+                "overflow": "hidden",
+                "white-space": "nowrap",
+                "font-size": "20px",
+                "position": "absolute",
+                "left": "0",
+                "display": "inline-block",
+                "margin": "0 0 5px",
+                "line-height": "20px",
+                "transition": "all .2s",
+                "width": "30px",
+                "height": "20px"
+              }
+            },
+            ".container": {
+              "max-width": "2500px"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">03.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen and A. Louri, \"An Online Quality Management Framework for Approximate Communication in Network-on-Chips\", in Proceedings of the 33rd International Conference on Supercomputing (ICS), Phoenix, AZ, June 26-28, 2019.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Approximate communication is being seriously considered as an effective technique for reducing power consumption and improving the communication efficiency of network-on-chips (NoCs). A major problem faced by these techniques is quality control: how do we ensure that the network will transmit data with sufficient accuracy for applications to produce acceptable results? In this paper, we propose a hardware-based quality management framework for approximate communication. The proposed framework employs a configuration algorithm to continuously adjust the quality of every piece of data based on the difference between the output quality and the application's quality requirement. When the proposed framework is implemented in a network, every request packet can be transmitted with the updated approximation level. This framework results in fewer flits in each data packet and reduces traffic in NoCs while meeting the quality requirements of applications. Our cycle-accurate simulation using the AxBench benchmark suite shows that the proposed online quality management framework can reduce network latency by up to 52% and dynamic power consumption by 59% compared to previous approximate communication techniques while ensuring 95% output quality. This hardware-software codesign incurs 1% area overhead over previous techniques.<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content6-9d",
           "_isUserblock": true,
           "_sourceTheme": "agencym4",
@@ -9579,7 +9801,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen, M.F. Reza and A. Louri, “DEC-NoC: An Approximate Framework based on Dynamic Error Control with Applications to Energy-efficient NoCs,”  in Proceedings of the 36th IEEE International Conference on Computer Design (ICCD), Orlando, FL, October 7-10, 2018.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Network-on-Chips (NoCs) have emerged as the standard on-chip communication fabrics for multi/manycore systems and system on chips. However, as the number of cores on chip increases, so does power consumption. Recent studies have shown that NoC power consumption can reach up to 40% of the overall chip power. &nbsp;Considerable research efforts have been deployed to significantly reduce NoC power consumption. In this paper, we build on approximate computing techniques and propose an approximate communication methodology called DEC-NoC for reducing NoC power consumption. &nbsp;The proposed DEC-NoC leverages applications' error tolerance and dynamically reduces the amount of error checking and correction in packet transmission, which results in a significant reduction in the number of retransmitted packets. The reduction in packet retransmission results in reduced power consumption. Our cycle accurate simulation using PARSEC benchmark suites shows that DEC-NoC achieves up to 56% latency reduction and up to 58% dynamic power reduction compared to NoC architectures with conventional error control techniques.<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">04.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Y. Chen, M.F. Reza and A. Louri, “DEC-NoC: An Approximate Framework based on Dynamic Error Control with Applications to Energy-efficient NoCs,”  in Proceedings of the 36th IEEE International Conference on Computer Design (ICCD), Orlando, FL, October 7-10, 2018.</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Network-on-Chips (NoCs) have emerged as the standard on-chip communication fabrics for multi/manycore systems and system on chips. However, as the number of cores on chip increases, so does power consumption. Recent studies have shown that NoC power consumption can reach up to 40% of the overall chip power. &nbsp;Considerable research efforts have been deployed to significantly reduce NoC power consumption. In this paper, we build on approximate computing techniques and propose an approximate communication methodology called DEC-NoC for reducing NoC power consumption. &nbsp;The proposed DEC-NoC leverages applications' error tolerance and dynamically reduces the amount of error checking and correction in packet transmission, which results in a significant reduction in the number of retransmitted packets. The reduction in packet retransmission results in reduced power consumption. Our cycle accurate simulation using PARSEC benchmark suites shows that DEC-NoC achieves up to 56% latency reduction and up to 58% dynamic power reduction compared to NoC architectures with conventional error control techniques.<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content6-5p",
           "_isUserblock": true,
           "_sourceTheme": "agencym4",
@@ -17654,7 +17876,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Application-Aware Reconfigurable Manycore Architectures</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Current Researchers: Hao Zheng, Dr. Lei Yang;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Application-Aware Reconfigurable Manycore Architectures</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Current Researchers: Hao Zheng, Jiaqi Yang;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content4-5b",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -19082,7 +19304,53 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">01.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">High-Performance, Energy-Efficient Countermeasures Against Side-Channel Attacks (SCA) for NoCs</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">As technology scales, Network-on-Chip (NoC) architectures have emerged as the prevailing communication fabric for on-chip communication that efficiently interconnect heterogeneous processing cores, last level of cache(s), memory controllers and I/O devices. However, as computing resources are dynamically shared, NoCs are becoming increasingly vulnerable to security threats via covert or side channels. Conventional security designs against side-channel attacks (SCA) are costly in energy and adversely affacts performance. Our approach will explore the use of machine learning algorithms to design a high-performance and energy-efficient countermesure against side-channel attacks with dynamic granularity for protection (at the level of packets, flows, inter-core/inter-processor traffic and so on).&nbsp;<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">01.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Ke Wang, Hao Zheng, Ahmed Louri. “TSA: Learning-Based Threat Detection and Mitigation for Secure System-On-Chip Architectures.”in IEEE Micro: Special Issue on Machine Learning for Systems,Sept/Oct, 2020</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Network-on-chips (NoCs) are playing a critical role in modern multicore architecture, and NoC security has become a major concern. Maliciously implanted Hardware Trojans (HTs) inject faults into on-chip communications that saturate the network, resulting in the leakage of sensitive data via side channels and significant performance degradation. While existing techniques protect NoCs by detecting and isolating HT-infected components, they inevitably incur occasional inaccurate detection with considerable network latency and power overheads. We propose TSA-NoC, a learning-based design framework for secure and efficient on-chip communication. The proposed TSA-NoC uses an artificial neural network (ANN) for runtime HT-detection with higher accuracy. Furthermore, we propose a deep reinforcement learning (DRL)-based adaptive routing design for HT mitigation with the aim of minimizing network latency and maximizing energy-efficiency. Simulation results show that TSA-NoC achieves up to 97% HT-detection accuracy, 70% improved energy-efficiency, and 29% reduced network latency as compared to state-of-the-art HT-mitigation techniques.</p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-a6",
+          "_isUserblock": true,
+          "_sourceTheme": "agencym4",
+          "_cid": "srsYbx0rBt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#464646",
+              "div": {
+                "margin-bottom": "1rem",
+                "padding-left": "2rem"
+              },
+              "li": {
+                "list-style": "none",
+                "padding-left": "2rem",
+                "position": "relative"
+              },
+              ".counter": {
+                "text-overflow": "clip",
+                "overflow": "hidden",
+                "white-space": "nowrap",
+                "font-size": "20px",
+                "position": "absolute",
+                "left": "0",
+                "display": "inline-block",
+                "margin": "0 0 5px",
+                "line-height": "20px",
+                "transition": "all .2s",
+                "width": "30px",
+                "height": "20px"
+              }
+            },
+            ".container": {
+              "max-width": "2500px"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">High-Performance, Energy-Efficient Countermeasures Against Side-Channel Attacks (SCA) for NoCs</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">As technology scales, Network-on-Chip (NoC) architectures have emerged as the prevailing communication fabric for on-chip communication that efficiently interconnect heterogeneous processing cores, last level of cache(s), memory controllers and I/O devices. However, as computing resources are dynamically shared, NoCs are becoming increasingly vulnerable to security threats via covert or side channels. Conventional security designs against side-channel attacks (SCA) are costly in energy and adversely affacts performance. Our approach will explore the use of machine learning algorithms to design a high-performance and energy-efficient countermesure against side-channel attacks with dynamic granularity for protection (at the level of packets, flows, inter-core/inter-processor traffic and so on).&nbsp;<br></p>\n                </div>\n              \n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content6-90",
           "_isUserblock": true,
           "_sourceTheme": "agencym4",
