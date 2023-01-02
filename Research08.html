@@ -105,9 +105,31 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">Emerging Memory Technologies and Architectures</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuan Li;</h3>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">Resilient Machine Learning Architectures</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Ke Wang and Yingnan Zhao;</h3>
                 
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section content6 cid-tlcTsIgX0M" id="content6-e5">
+    
+     
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-12 col-md-8">
+                <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 75%;">
+                      <img src="assets/images/presentation1-copy-911x512.jpg" alt="" title="">  
+                    </div>
+                    <div class="media-content">
+                        <div class="mbr-section-text">
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7">With technology scaling, hardware reliability has become a major obstacle to reaping the benefits of increased integration projected by Moore's law. Integrated circuit reliability is affected by many parameters, including design-related parameters such as gate oxide width, wire cross-sectional area, integration density, and chip area; process-related parameters such as defect size, distribution, and density; and operation-related parameters such as voltage, power density, and temperature. In this research project, we explore cost-effective approaches to mitigate permanent faults (induced by hardware aging) and transient errors (induced by runtime variations, overheated hardware, and transistor delay, etc.) in network-on-chips (NoCs) and deep learning accelerators in particular. </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -119,12 +141,12 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div>Recent 3D/2.5D integration and packaging techniques have enabled multiple memory stacks of different technologies (SRAM, DRAM, non-volatile memory, etc.) to be integrated in the same chiplet-based system with computation dies. Integrating memory stacks in chiplet-based systems opens up a new design space and prompts optimizations of memory architectures to leverage the abundant wiring resource of the silicon interposer and provide high memory bandwidth. Besides, as different memory technologies exhibit distinct performance characteristics (latency, write endurance, etc.) and power consumptions, combining multiple memory technologies efficiently in one system is a challenging and unresolved issue.</div><div><br></div><div>In this research project, we plan to examine the memory access patterns in the chiplet-based systems, and identify and solve the key memory design challenges in such systems.  We are also interested in developing hardware/software techniques to efficiently manage data movement in the hybrid memory architectures, in order to leverage the benefits of different memory technologies while minimizing their drawbacks.</div></div>
+            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"></div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article content12 cid-rdPC1bDZp9" id="content6-90">
+<section class="mbr-section article content12 cid-tm2vGMd1bP" id="content6-em">
      
 
     <div class="container">
@@ -132,8 +154,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Hybrid Memory Architecture Management</h3>
-                    <p class="mbr-fonts-style display-7">Tightly integrating stacked memory and processor dies in a 2.5D chiplet architecture is a promising approach to alleviate the memory wall problem. However, current stacked DRAM often cannot accommodate the entire datasets of modern applications due to capacity limitation, inevitably leading to slow and energy-consuming off-package memory accesses. An in-package heterogeneous memory architecture, which contains both stacked DRAM and denser stacked non-volatile memory (NVM), can overcome this capacity limitation. The resulting heterogeneous in-package memory architecture prompts the design of effective memory management schemes, as NVM typically performs worse than DRAM. We observe that the existing heterogeneous memory management schemes do not work well in the in-package heterogeneous memory architectures because these schemes cannot actively respond to memory access pattern variations and exhibit excessive overhead such as OS interrupt and translation look-aside buffer (TLB) shootdown. In this project, we propose a new memory management scheme specifically optimized for in-package heterogeneous memory architectures.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Zhao, K. Wang and A. Louri, "FSA: An Efficient Fault-Tolerant Systolic Array-based DNN Accelerator Architecture", in <em>Proceedings of the 40th IEEE International Conference on Computer Design (ICCD)</em>, Lake Tahoe, October 23-26, 2022.</h3>
+                    <p class="mbr-fonts-style display-7">Abstract—With the advent of Deep Neural Network (DNN) accelerators, permanent faults are increasingly becoming a serious challenge for DNN hardware accelerator, as they can severely degrade DNN inference accuracy. The State-of-the-art works address this issue by adding homogeneous redundant Processing Elements (PEs) to the DNN accelerator’s central computing array, or bypassing faulty PEs directly. However, such designs induce inference loss, extra hardware cost, and performance overhead. Moreover, current designs are able to only deal with a limited number of faults due to costs. In this paper, we propose FSA, a Fault-tolerant Systolic Array-based DNN accelerator with the goal of maintaining DNN inference accuracy in the presence of permanent faults. The key feature of the proposed FSA is a unified re-computing module (RCM) that dynamically recalculates the required DNN computations that are supposed to be accomplished by faulty PEs with minimal latency and power consumption. Simulation results show that the proposed FSA reduces inference accuracy loss by 46%, improves execution time by 23%, and reduces energy consumption by 35% on average, as compared to existing designs.</p>
                 </div>
               
             </div>
@@ -141,15 +163,161 @@
     </div>
 </section>
 
-<section class="mbr-section article content1 cid-rcOrjTu22r" id="content1-5f">
+<section class="cid-tm2vHtWceF" id="image2-en">
+
     
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 68%;">
+            <img src="assets/images/wechat-screenshot-20221102102632-1400x621.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcJEdmRfL" id="content6-ds">
      
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div></div></div>
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">K. Wang and A. Louri, "CURE: A High-Performance, Low-Power, and Reliable Network-on-Chip Design Using Reinforcement Learning", <em>IEEE Transactions on Parallel and Distributed Systems</em> 31.9 (2020): 2125-2138.</h3>
+                    <p class="mbr-fonts-style display-7">We propose CURE, a deep reinforcement learning (DRL)-based NoC design framework that simultaneously reduces network latency, improves energy-efficiency, and tolerates transient errors and permanent faults. CURE has several architectural innovations and a DRL-based hardware controller to manage design complexity and optimize trade-offs. First, in CURE, we propose reversible multi-function adaptive channels (RMCs) to reduce NoC power consumption and network latency. Second, we implement a new fault-secure adaptive error correction hardware in each router to enhance reliability for both transient errors and permanent faults. Third, we propose a router power-gating and bypass design that powers off NoC components to reduce power and extend chip lifespan. Further, for the complex dynamic interactions of these techniques, we propose using DRL to train a proactive control policy to provide improved fault-tolerance, reduce power consumption, and improved performance. Simulation using the PARSEC benchmark shows that CURE reduces end-to-end packet latency by 39 percent, improves energy efficiency by 92 percent, and lowers static and dynamic power consumption by 24 and 38 percent, respectively, over conventional solutions. Using mean-time-to-failure, we show that CURE is 7.7 X more reliable than the conventional NoC design.<br></p>
+                </div>
+              
+            </div>
         </div>
     </div>
+</section>
+
+<section class="cid-tlcJEL9IWO" id="image2-dt">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 68%;">
+            <img src="assets/images/wechat-screenshot-20221024135125-1549x620.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcJFbxaQM" id="content6-du">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">03.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">K. Wang, A. Louri, A. Karanth and R. Bunescu, “IntelliNoC: A Holistic Design Framework for Energy-Efficient and Reliable On-chip Communication for Manycores”, in <em>Proceedings of the 46th International Symposium on Computer Architecture (ISCA-46)</em>, Phoenix, Arizona, June 22-26, 2019.</h3>
+                    <p class="mbr-fonts-style display-7">Network-on-Chips (NoCs), currently being used for on-chip communication in manycore architectures, face several problems including high network latency, excessive power consumption, and low reliability. Simultaneously addressing these problems is proving to be difficult due to the explosion of the design space and the complexity of handling many trade-offs. In this paper, we propose IntelliNoC, an intelligent NoC design framework which introduces architectural innovations and uses reinforcement learning to manage the design complexity and simultaneously optimize performance, energy-efficiency, and reliability in a holistic manner. IntelliNoC integrates three NoC architectural techniques: (1) multifunction adaptive channels (MFACs) to improve energy-efficiency; (2) adaptive error detection/correction and re-transmission control to enhance reliability; and (3) a stress-relaxing bypass feature which dynamically powers off NoC components to prevent overheating and fatigue. To handle the complex dynamic interactions induced by these techniques, we train a dynamic control policy using Q-learning, with the goal of providing improved fault-tolerance and performance while reducing power consumption and area overhead. Simulation using PARSEC benchmarks shows that our proposed IntelliNoC design improves energy-efficiency by 67% and mean-time-to-failure (MTTF) by 77%, and decreases end-to-end packet latency by 32% and area requirements by 25% over baseline NoC architecture.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tlcJFCuFUW" id="image2-dv">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 65%;">
+            <img src="assets/images/wechat-screenshot-20221024135405-1753x802.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcJG2hnOx" id="content6-dw">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">04.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">K. Wang, A. Louri, A. Karanth, and R. Bunescu, "High-performance, Energy-efficient, Fault-tolerant Network-on-Chip Design Using Reinforcement Learning", in <em>Proceedings of the Design Automation &amp; Test in Europe Conference &amp; Exhibition (DATE)</em>, Florence, Italy, 2019.</h3>
+                    <p class="mbr-fonts-style display-7">As technology continues to scale, transistors and wires on the chip are becoming increasingly vulnerable to various fault mechanisms, especially timing errors, resulting in exacerbation of energy efficiency and performance for NoCs. Typical techniques for handling timing errors are reactive in nature, responding to the faults after their occurrence. They rely on error detection/correction techniques which have resulted in excessive power consumption and degraded performance, since the error detection/correction hardware is constantly enabled. On the other hand, indiscriminately disabling error handling hardware can induce more errors and intrusive retransmission traffic. Therefore, the challenge is to balance the trade-offs among error rate, packet retransmission, performance, and energy. In this paper, we propose a proactive fault-tolerant mechanism to optimize energy efficiency and performance with reinforcement learning (RL). First, we propose a new proactive error handling technique comprised of a dynamic scheme for enabling per-router error detection/correction hardware and an effective retransmission mechanism. Second, we propose the use of RL to train the dynamic control policy with the goals of providing increased fault-tolerance, reduced power consumption and improved performance as compared to conventional techniques. Our evaluation indicates that, on average, end-to-end packet latency is lowered by 55%, energy efficiency is improved by 64%, and retransmission caused by faults is reduced by 48% over the reactive error correction techniques.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tlcJGuAND5" id="image2-dx">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 41%;">
+            <img src="assets/images/wechat-screenshot-20221024135625-804x648.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcLwdoK5s" id="content6-dy">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">05.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">D. DiTomaso, A. Karanth, and A. Louri, "QORE: A Fault Tolerant Network-on-Chip Architecture with Power-Efficient Quad-Function Channel (QFC) Buffers", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Orlando, FL, February 15-19, 2014.</h3>
+                    <p class="mbr-fonts-style display-7">Network-on-Chips (NoCs) are quickly becoming the standard communication paradigm for the growing number of cores on the chip. While NoCs can deliver sufficient bandwidth and enhance scalability, NoCs suffer from high power consumption due to the router microarchitecture and communication channels that facilitate inter-core communication. As technology keeps scaling down in the nanometer regime, unpredictable device behavior due to aging, infant mortality, design defects, soft errors, aggressive design, and process-voltage-temperature variations, will increase and will result in a significant increase in faults and hardware failures. In this work, we propose QORE - a fault tolerant NoC architecture with Quad-Function Channel (QFC) buffers. The use of QFC buffers and their associated control enhances fault-tolerance by allowing the NoC to dynamically adapt to faults at he link level and reverse propagation direction to avoid faulty links. Additionally, QFC buffers reduce router power and improve performance by eliminating in-router buffering. Our simulation results using real benchmarks and synthetic traffic mixes show that QORE improves speedup by 1.3X and throughput by 2.3X when compared to state-of-the-art fault tolerant NoCs designs such as Ariadne and Vicis. Moreover, using Synopsys Design Compiler, we also show that network power in QORE is reduced by 21% with minimal control overhead.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tlcLzfFSqe" id="image2-e0">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 60%;">
+            <img src="assets/images/wechat-screenshot-20221024140823-1011x547.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcLzFWp2n" id="content6-e1">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">06.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">D. DiTomaso, T. Boraten, A. Karanth, and A. Louri, "Dynamic Error Mitigation in NoCs using Intelligent Prediction Techniques", in <em>Proceedings of the International Symposium on Microarchitecture (MICRO)</em>, Taipei, Taiwan, 2016.</h3>
+                    <p class="mbr-fonts-style display-7">Network-on-Chips (NoCs) are quickly becoming the standard communication fabric for multi-core systems. As technology continues to scale don into the nanometer regime, device behavior will become increasingly unreliable due to a combination of aging, soft errors, aggressive transistor design, and process-voltage-temperature variations. Further, stringent timing constraints in NoCs are designed so that data can be pushed faster. The net result is an increase in errors which must be mitigated by the NoC. Typical techniques for handling faults are often reactive as they respond to faults after the error has occurred, making the recovery process inefficient in energy and time. In this work, we take a different approach wherein we propose to use proactive, fault-tolerant schemes to be employed before the fault affects the system. We propose to utilize machine learning techniques to train a decision tree which can be used to predict faults efficiently in the network. Based on the prediction model, we dynamically mitigate there predicted faults through error correction codes (ECC) and relaxed timing transmission. Our results indicate that, on average, we can accurately predict timing errors 60.6% better than a static single error correction and double error detection (SECDED) technique resulting in an average 26.8% reduction in retransmitted packets, an average net speedup of 3.31X, and an average energy savings of 60.0% over other designs for real traffic patterns.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tlcLA3ACBm" id="image2-e2">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 52%;">
+            <img src="assets/images/wechat-screenshot-20221024142032-661x935.png" alt="" title="">
+            
+        </div>
+    </figure>
 </section>
 
 <section class="cid-rdPq5j4Ss0" id="footer1-8o">

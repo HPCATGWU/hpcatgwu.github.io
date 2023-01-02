@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Emerging Interconnects Technologies for Network-on-Chips</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuan Li;</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuan Li and Juliana Curry;</h3>
                 
             </div>
         </div>
@@ -132,7 +132,7 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture</em>, Virtual Conference, April 2-6, 2022.</h3>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Virtual Conference, April 2-6, 2022.</h3>
                     <p class="mbr-fonts-style display-7">In pursuit of higher inference accuracy, deep neural network (DNN) models have significantly increased in complexity and size. To overcome the consequent computational challenges, scalable chiplet-based accelerators have been proposed. However, data communication using metallic-based interconnects in these chiplet-based DNN accelerators is becoming a primary obstacle to performance, energy efficiency, and scalability. The photonic interconnects can provide adequate data communication support due to some superior properties like low latency, high bandwidth and energy efficiency, and ease of broadcast communication. In this project, we propose SPACX: a Silicon Photonics-based Chiplet Accelerator for DNN inference applications. Specifically, SPACX includes a photonic network design that enables seamless single-chiplet and cross-chiplet broadcast communications, and a tailored dataflow that promotes data broadcast and maximizes parallelism. Furthermore, we explore the broadcast granularities of the photonic network and implications on system performance and energy efficiency. A flexible bandwidth allocation scheme is also proposed to dynamically adjust communication bandwidths for different types of data. Simulation results using several DNN models show that SPACX can achieve 78 percent and 75 percent reduction in execution time and energy, respectively, as compared to other state-of-the-art chiplet-based DNN accelerators.<br></p>
                 </div>
               
@@ -182,7 +182,7 @@
     </figure>
 </section>
 
-<section class="mbr-section article content12 cid-rdPC1bDZp9" id="content6-90">
+<section class="mbr-section article content12 cid-tldhkO86Fi" id="content6-ek">
      
 
     <div class="container">
@@ -190,6 +190,35 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">03.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects", in <em>Proceedings of the Design Automation Conference</em>, San Francisco, CA, December 5-9, 2021.</h3>
+                    <p class="mbr-fonts-style display-7">Chiplet-based architectures have been proposed to scale computing systems for deep neural networks (DNNs). Prior work has shown that for the chiplet-based DNN accelerators, the electrical network connecting the chiplets poses a major challenge to system performance, energy consumption, and scalability. Some emerging interconnect technologies such as silicon photonics can potentially overcome the challenges facing electrical interconnects as photonic interconnects provide high bandwidth density, superior energy efficiency, and ease of implementing broadcast and multicast operations that are prevalent in DNN inference. In this project, we propose a chiplet-based architecture named SPRINT for DNN inference. SPRINT uses a global buffer to simplify the data transmission between storage and computation, and includes two novel designs: (1) a reconfigurable photonic network that can support diverse communications in DN inference with minimal implementation cost, and (2) a customized dataflow that exploits the ease of broadcast and multicast feature of photonic interconnects to support highly parallel DNN computations. Simulation studies using ResNet-50 DNN  model show  that SPRNT achieves 46 percent and 61 percent execution time and energy consumption reduction, respectively, as compared to other state-of-the-art chiplet-based architectures with electrical or photonic interconnects.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tldhlPjzV5" id="image2-el">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 79%;">
+            <img src="assets/images/dac-1284x359.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-rdPC1bDZp9" id="content6-90">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">04.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu, “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies,” in <em>IEEE Transactions on Sustainable Computing</em>, 2018. doi: 10.1109/TSUSC.2018.2861362</h3>
                     <p class="mbr-fonts-style display-7">With the scaling of technology, the computing industry is experiencing a shift from multi-core to many- core architectures. However, traditional metallic-based on-chip interconnects may not scale to support many-core architectures due to high power dissipation, and increased communication latency. Attention has recently shifted to emerging technologies such as silicon-photonics and wireless interconnects to implement future on-chip communications. Although emerging technologies show promising results for power-efficient, low-latency, and scalable on-chip interconnects, the use of single technology may not be sufficient to scale future architectures. This encourages the introduction of heterogeneity in the use of emerging technologies for NoCs.<br><br>In this paper, we extend the heterogeneous architecture Optical- Wireless Network-on- Chip (OWN [1]) to Reconfigurable Optical-Wireless Network-on- Chip (R-OWN) by introducing run-time reconfigurable wireless channels. Like OWN, R-OWN is designed such that one-hop photonic interconnect is used up to 64 cores (called a cluster) and communication beyond a cluster is one- hop wireless to limit the network diameter to a maximum of three hops. The photonic bandwidth is efficiently shared using time division multiplexing (TDM) while the wireless bandwidth is shared using frequency division multiplexing (FDM). Packets routed across technologies are proved to be deadlock- free. We propose a preliminary assessment of implementing heterogeneous technologies with the router microarchitecture.<br><br>Further, we also discuss the design of horn antenna for implementing the wireless channels. Our results indicate that R-OWN improves the performance (throughput and latency) by 15% when compared to OWN while consuming 7% more energy than OWN. Further, OWN and R-OWN improve energy-efficiency by 54-61% when compared to WCube and CMesh architectures respectively. It should be noted that both OWN and R-OWN require less area than state-of- the-art wired, wireless and optical on-chip networks.<br></p>
                 </div>
@@ -220,7 +249,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">04.</h4>
+                    <h4 class="counter">05.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">V. W. Scott, A. Karanth, R. Bunescu, and A. Louri. "Extending the power-efficiency and performance of photonic interconnects for heterogeneous multicores with machine learning." In <em>IEEE International Symposium on High Performance Computer Architecture (HPCA)</em>, pp. 480-491, 2018.</h3>
                     <p class="mbr-fonts-style display-7">As communication energy exceeds computation energy in future technologies, traditional on-chip electrical interconnects face fundamental challenges in the many-core era. Photonic interconnects have been proposed as a disruptive technology solution due to superior performance per Watt, distance independent energy consumption and CMOS compatibility for on-chip interconnects. Static power due to the laser being always switched on, varying link utilization due to spatial and temporal traffic fluctuations and thermal sensitivity are some of the critical challenges facing photonics interconnects. In this paper, we propose photonic interconnects for heterogeneous multicores using a checkerboard pattern that clusters CPU-GPU cores together and implements bandwidth reconfiguration using local router information without global coordination. To reduce the static power, we also propose a dynamic laser scaling technique that predicts the power level for the next epoch using the buffer occupancy of previous epoch. To further improve power-performance trade-offs, we also propose a regression-based machine learning technique for scaling the power of the photonic link. Our simulation results demonstrate a 34% performance improvement over a baseline electrical CMESH while consuming 25% less energy per bit when dynamically reallocating bandwidth. When dynamically scaling laser power, our buffer-based reactive and ML-based proactive prediction techniques show 40 - 65% in power savings with 0 - 14% in throughput loss depending on the reservation window size.<strong><br></strong></p>
                 </div>
@@ -237,7 +266,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">05.</h4>
+                    <h4 class="counter">06.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">V. W. Scott, A. Karanth, R. Bunescu, and A. Louri. "Extending the power-efficiency and performance of photonic interconnects for heterogeneous multicores with machine learning." In <em>IEEE International Symposium on High Performance Computer Architecture (HPCA)</em>, pp. 480-491, 2018.</h3>
                     <p class="mbr-fonts-style display-7">As communication energy exceeds computation energy in future technologies, traditional on-chip electrical interconnects face fundamental challenges in the many-core era. Photonic interconnects have been proposed as a disruptive technology solution due to superior performance per Watt, distance independent energy consumption and CMOS compatibility for on-chip interconnects. Static power due to the laser being always switched on, varying link utilization due to spatial and temporal traffic fluctuations and thermal sensitivity are some of the critical challenges facing photonics interconnects. In this paper, we propose photonic interconnects for heterogeneous multicores using a checkerboard pattern that clusters CPU-GPU cores together and implements bandwidth reconfiguration using local router information without global coordination. To reduce the static power, we also propose a dynamic laser scaling technique that predicts the power level for the next epoch using the buffer occupancy of previous epoch. To further improve power-performance trade-offs, we also propose a regression-based machine learning technique for scaling the power of the photonic link. Our simulation results demonstrate a 34% performance improvement over a baseline electrical CMESH while consuming 25% less energy per bit when dynamically reallocating bandwidth. When dynamically scaling laser power, our buffer-based reactive and ML-based proactive prediction techniques show 40 - 65% in power savings with 0 - 14% in throughput loss depending on the reservation window size.<strong><br></strong></p>
                 </div>
@@ -268,7 +297,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">06.</h4>
+                    <h4 class="counter">07.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5"><strong>A. Karanth, K. Shifflet, S. Kaya, S. Laha, and A. Louri. "Scalable Power-Efficient Kilo-Core Photonic-Wireless NoC Architectures." In <em>2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</em>, pp. 1010-1019. IEEE, 2018.</strong></h3>
                     <p class="mbr-fonts-style display-7">As technology scales, hundreds and thousands of cores are being integrated on a single chip. Since metallic interconnects may not scale effectively to support thousands of cores, architects have proposed emerging technologies such as photonics and wireless for intra-chip communication. While photonics technology is limited by the complexity and thermal effects, wireless technology for on-chip communication is limited by the available bandwidth. In this paper, we combine the benefits of both technologies into novel architecture that takes advantage of the communication benefits of both technologies while circumventing their limits. We discuss the scalability of the proposed architecture to kilo-core system using wireless technology. We evaluate the power consumption, throughput and latency for 256 and 1024 core architectures when compared to photonics-only, wireless-wired, wireless-photonics and wired-only architectures on synthetic traffic traces. Our simulation results indicate that the proposed architecture and design methodology can have significant impact on the overall network power and performance.<br></p>
                 </div>
@@ -310,7 +339,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                      <h4 class="counter">07.</h4>
+                      <h4 class="counter">08.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">A. I. Sikder, Avinash K. Kodi, and Ahmed Louri. 201616. Reconfigurable Optical and Wireless (R-OWN) Network-on-Chip for High Performance Computing. In <em>Proceedings of the 3rd ACM International Conference on Nanoscale Computing and Communication (NANOCOM ‘16)</em>. ACM, New York, NY, Article 25, 6 pages.</h3>
                     <p class="mbr-fonts-style display-7">With the scaling of technology, the industry is experiencing a shift from multi-core to many-core architectures. However, traditional on-chip metallic interconnects may not scale to support these many-core architectures due to the increased hop count, high power dissipation, and increased latency. Recently, attention has recently been shifted to emerging technologies such as optical and wireless interconnects for future on-chip communications. Although emerging technologies show promising results for power-efficient, low-latency, and scalable on-chip interconnects, the use of single technology may not be sufficient to support future many-core architectures.<br><br>In this paper, we propose a Reconfigurable Optical-Wireless Network-on- Chip (R-OWN) that facilitates communication through static optical links and reconfigurable wireless links. The network diameter of R-OWN is restricted to three hops by dividing the network into several optical domains of 64-cores (called a cluster) and by connecting the clusters using one-hop wireless network. The optical bandwidth is efficiently shared using time division multiplexing (TDM), and the wireless bandwidth is shared using frequency division multiplexing (FDM). Packets routed across optical and wireless networks are proved to be deadlock-free. Our results indicate that R- OWN improves energy-efficiency by 44-51%, performance (throughput and latency) by 13- 31%, and area by 4-13% when compared to state-of- the-art wired, wireless, optical, and hybrid on-chip networks.<br></p>
                 </div>
@@ -341,7 +370,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                      <h4 class="counter">08.</h4>
+                      <h4 class="counter">09.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">T. J. Kao and A. Louri, Optical Multilevel Signaling for High Bandwidth and Power-Efficient On-Chip Interconnects,” in <em>IEEE Photonics Technology Letters</em>, vol. 27, no. 19, pp. 2051-2054, Oct. 2015.</h3>
                     <p class="mbr-fonts-style display-7">Network-on- chip (NoC) is a key component for boosting the system performance of future chip multiprocessors. With the projected increase in the number of cores on the chip, the NoC is perceived to be the limiting component for performance and scaling. Photonic NoCs are under serious consideration for scaling future multicore architectures. In this paper, we propose two photonic NoC architectures based on an optical multilevel signaling technique that can double the transmission bandwidth and reduce the area requirements. Simulation studies show that the proposed methodology saves up to 53% of power and reduces the area overhead by as much as 81% compared with metallic-based NoCs.</p>
                 </div>
@@ -372,7 +401,7 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                      <h4 class="counter">09.</h4>
+                      <h4 class="counter">10.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">R. W. Morris, A. K. Kodi, A. Louri and R. D. Whaley, “Three-Dimensional Stacked Nanophotonic Network-on-Chip Architecture with Minimal Reconfiguration,” in <em>IEEE Transactions on Computers</em>, vol. 63, no. 1, pp. 243-255, Jan. 2014.</h3>
                     <p class="mbr-fonts-style display-7">As throughput, scalability, and energy efficiency in network-on- chips (NoCs) are becoming critical, there is a growing impetus to explore emerging technologies for implementing NoCs in future multicore and many-core architectures. Two disruptive technologies on the horizon are nanophotonic interconnects (NIs) and 3D stacking. NIs can deliver high on-chip bandwidth while delivering low energy/bit, thereby providing a reasonable performance-per- watt in the future. Three-dimensional stacking can reduce the interconnect distance and increase the bandwidth density by incorporating multiple communication layers. In this paper, we propose an architecture that combines NIs and 3D stacking to design an energy-efficient and reconfigurable NoC.<br><br>We quantitatively compare the hardware complexity of the proposed topology to other nanophotonic networks in terms of hop count, network diameter, radix, and photonic parameters. To maximize performance, we also propose an efficient reconfiguration algorithm that dynamically reallocates channel bandwidth by adapting to traffic fluctuations. For 64-core reconfigured network, our simulation results indicate that the execution time can be reduced up to 25 percent for Splash-2, PARSEC, and SPEC CPU2006 benchmarks. Moreover, for a 256-core version of the proposed architecture, our simulation results indicate a throughput improvement of more than 25 percent and energy savings of 23 percent on synthetic traffic when compared to competitive on-chip electrical and optical networks.</p>
                 </div>

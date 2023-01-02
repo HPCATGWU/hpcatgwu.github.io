@@ -31,7 +31,27 @@
 </head>
 <body>
   
-  <section class="menu cid-rcO62DkvdX" once="menu" id="menu1-3l">
+  <section class="header1 cid-rcO62CJpIN mbr-parallax-background" id="header1-3k">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">
+                    Research Topic</h1>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="menu cid-rcO62DkvdX" once="menu" id="menu1-3l">
 
     
 
@@ -78,26 +98,6 @@
     </nav>
 </section>
 
-<section class="header1 cid-rcO62CJpIN mbr-parallax-background" id="header1-3k">
-
-    
-
-    
-
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="mbr-white col-md-10">
-                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">
-                    Research Topic</h1>
-                
-                
-                
-            </div>
-        </div>
-    </div>
-
-</section>
-
 <section class="mbr-section content4 cid-rcOmAM79xM" id="content4-4u">
 
     
@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Graph Processing &amp; Neural Network Accelerators</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Jiajun Li, Dr. Ke Wang, and Yingnan Zhao</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Jiajun Li, Dr. Hao Zheng, Dr. Ke Wang, Yingnan Zhao, and Belal Jahannia</h3>
                 
             </div>
         </div>
@@ -146,7 +146,7 @@
     </div>
 </section>
 
-<section class="mbr-section article content12 cid-thfhJAkb3z" id="content6-c9">
+<section class="mbr-section article content12 cid-tpmuTgtLB2" id="content6-es">
      
 
     <div class="container">
@@ -154,6 +154,35 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Zhao, K. Wang, and A. Louri, “FSA: An Efficient Fault-Tolerant Systolic Array Based DNN Accelerator,” in <em>Proceedings of the 40th IEEE International Conference on Computer Design (ICCD)</em>, Lake Tahoe, CA, October 23-26, 2022</h3>
+                    <p class="mbr-fonts-style display-7">With the advent of Deep Neural Network (DNN) accelerators, permanent faults are increasingly becoming a serious challenge for DNN hardware accelerator, as they can severely degrade DNN inference accuracy. The State-of-the-art works address this issue by adding homogeneous redundant Processing Elements (PEs) to the DNN accelerator’s central computing array, or bypassing faulty PEs directly. However, such designs induce inference loss, extra hardware cost, and performance overhead. Moreover, current designs are able to only deal with a limited number of faults due to costs. In this work, we propose FSA, a Fault-tolerant Systolic Array-based DNN accelerator with the goal of maintaining DNN inference accuracy in the presence of permanent faults. The key feature of the proposed FSA is a unified re-computing module (RCM) that dynamically recalculates the required DNN computations that are supposed to be accomplished by faulty PEs with minimal latency and power consumption. Simulation results show that the proposed FSA reduces inference accuracy loss by 46%, improves execution time by 23%, and reduces energy consumption by 35% on average, as compared to existing designs.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-tpmuUppi4Z" id="image2-et">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 68%;">
+            <img src="assets/images/wechat-screenshot-20221102102632-1400x621.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-thfhJAkb3z" id="content6-c9">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
                     <h3 class="mb-3 mbr-fonts-style display-5">J. Li, H. Zheng, K. Wang, and A. Louri, "SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator with Workload Balancing", <em>IEEE Transactions on Parallel and Distributed Systems</em>, 33.11 (2022): 2834-2845.</h3>
                     <p class="mbr-fonts-style display-7">Convolutional Neural Networks (GCNs) have emerged as promising tools for graph-based machine learning applications. Given that GCNs are both compute- and memory-intensive, this constitutes a major challenge for the underlying hardware to efficiently process large-scale GCNs. In this project, we introduce SGCNAX, a scalable GCN accelerator architecture for the high-performance and energy-efficient acceleration of GCNs. Unlike prior GCN accelerators that either employ limited loop optimization techniques, or determine the design variables based on random sampling, we systematically explore the loop optimization techniques for GCN acceleration and propose a flexible GCN dataflow that adapts to different GCN configurations to achieve optimal efficiency. We further propose two hardware-based techniques to address the workload imbalance problem caused by the unbalanced distribution of zeros in GCNs. Specifically, SGCNAX exploits an outer-product-based computation architecture that mitigates the intra-PE (processing elements) workload imbalance, and employs a group-and-shuffle approach to mitigate the inter-PE workload imbalance. Simulation results show that SGCNAX performs 9.2 X, 1.6 X, and 1.2 X better, and reduces DRAM accesses by a factor of 9.7 X, 2.9 X, and 1.2 X compared to HyGCN, AWB-GCN, and GCNAX, respectively.<br></p>
                 </div>
@@ -182,8 +211,8 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">02.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, A. Louri, A. Karanth, and R. Bunescu, "GCNAX: A Flexible and Energy-Efficient Accelerator for Graph Convolutional Neural Networks", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
+                    <h4 class="counter">03.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, A. Louri, A. Karanth, and R. Bunescu, "GCNAX: A Flexible and Energy-Efficient Accelerator for Graph Convolutional Neural Networks", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
                     <p class="mbr-fonts-style display-7">Graph convolutional neural networks (GCNs) have emerged as an effective approach to extend deep learning for graph data analytics. Given that graphs are usually irregular, as nodes in a graph may have a varying number of neighbors, processing GCNs efficiently pose a significant challenge on the underlying hardware. Although specialized GCN accelerators have been proposed to deliver better performance over generic processors, prior accelerators not only under-utilize the compute engine, but also impose redundant data accesses that reduce throughput and energy efficiency. Therefore, optimizing the overall flow of data between compute engines and memory, i.e., the GCN dataflow, which maximizes utilization and minimizes data movement is crucial for achieving efficient GCN processing. In this project, we propose a flexible and optimized dataflow for GCNs that simultaneously improves resource utilization and reduces data movement. This is realized by fully exploring the design space of GCN dataflows and evaluating the number of execution cycles and DRAM accesses through an analysis framework. Unlike prior strategies, the proposed dataflow can reconfigure the loop order and loop fusion strategy to adapt to different GCN configurations, which results in much improved efficiency. We then introduce a novel accelerator architecture called GCNAX, which tailors the compute engine, buffer structure and size based on the proposed dataflow. Evaluated on five real-world graph datasets, our simulation results show that GCNAX reduces DRAM accesses by a factor of 8.1 X and 2.4 X, while achieving 8.9 X, 1.6 X, speedup and 9.5 X, 2.3 X energy savings on average over HyGCN and AWB-GCN, respectively.<br></p>
                 </div>
               
