@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Graph Processing &amp; Neural Network Accelerators</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Jiajun Li</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Jiajun Li, Dr. Ke Wang, and Yingnan Zhao</h3>
                 
             </div>
         </div>
@@ -126,7 +126,7 @@
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-7"><br>Implementing graph processing or neural network algorithms on hardware platform will incur interaction problems such as poor locality, random access latency, and unbalanced workloads. These problems are more obvious in the commercial environment where natural graphs or data loads are both large-scale and irregular. Therefore, domain-specific accelerators for graph processing or neural networks are needed to achieve high-performance computing during hardware implementation. <br><br></p>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7"><br>Implementing graph processing &amp; neural network algorithms on hardware platforms could incur problems such as poor locality, uncertain access latency, and unbalanced workloads. These problems are more obvious in the commercial environment where natural graphs or data loads are both large-scale and irregular. Therefore, domain-specific accelerators for graph processing or neural networks are needed to achieve high-performance computing during hardware implementation. <br><br></p>
                         </div>
                     </div>
                 </div>
@@ -141,7 +141,53 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div><span style="font-size: 1rem;">In this research, we are working on minimizing the computational complexity of graph processing, together with deep learning algorithms by employing novel dataflow and preprocessing frameworks. This could reduce redundant operations and fully exploit parallelism in hardware level. Moreover, we are exploring efficient memory allocation approaches, improving data reuse, enhancing calculation throughput under limited bandwidth or directly increasing memory bandwidth based on custom architecture layout. Our ultimate target is designing high-performance and energy-efficient accelerators by FPGA / ASIC without violating computation accuracy.</span><br></div></div>
+            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div><span style="font-size: 1rem;">In this research, we are working on minimizing the computational complexity of graph processing, together with deep learning algorithms by employing novel dataflow and preprocessing frameworks. This could reduce redundant operations and fully exploit parallelism at the hardware level. Moreover, we are exploring efficient memory allocation approaches, improving data reuse, enhancing calculation throughput under limited bandwidth or directly increasing memory bandwidth based on custom architecture layout. Our ultimate target is designing high-performance and energy-efficient accelerators by FPGA / ASIC without violating computation accuracy.</span><br></div></div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content12 cid-thfhJAkb3z" id="content6-c9">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">01.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, H. Zheng, K. Wang, and A. Louri, "SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator with Workload Balancing", <em>IEEE Transactions on Parallel and Distributed Systems</em>, 33.11 (2022): 2834-2845.</h3>
+                    <p class="mbr-fonts-style display-7">Convolutional Neural Networks (GCNs) have emerged as promising tools for graph-based machine learning applications. Given that GCNs are both compute- and memory-intensive, this constitutes a major challenge for the underlying hardware to efficiently process large-scale GCNs. In this project, we introduce SGCNAX, a scalable GCN accelerator architecture for the high-performance and energy-efficient acceleration of GCNs. Unlike prior GCN accelerators that either employ limited loop optimization techniques, or determine the design variables based on random sampling, we systematically explore the loop optimization techniques for GCN acceleration and propose a flexible GCN dataflow that adapts to different GCN configurations to achieve optimal efficiency. We further propose two hardware-based techniques to address the workload imbalance problem caused by the unbalanced distribution of zeros in GCNs. Specifically, SGCNAX exploits an outer-product-based computation architecture that mitigates the intra-PE (processing elements) workload imbalance, and employs a group-and-shuffle approach to mitigate the inter-PE workload imbalance. Simulation results show that SGCNAX performs 9.2 X, 1.6 X, and 1.2 X better, and reduces DRAM accesses by a factor of 9.7 X, 2.9 X, and 1.2 X compared to HyGCN, AWB-GCN, and GCNAX, respectively.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-thfhMyh1Bg" id="image2-cb">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 45%;">
+            <img src="assets/images/sgcnax-877x889.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-thfhKdlOP1" id="content6-ca">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, A. Louri, A. Karanth, and R. Bunescu, "GCNAX: A Flexible and Energy-Efficient Accelerator for Graph Convolutional Neural Networks", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
+                    <p class="mbr-fonts-style display-7">Graph convolutional neural networks (GCNs) have emerged as an effective approach to extend deep learning for graph data analytics. Given that graphs are usually irregular, as nodes in a graph may have a varying number of neighbors, processing GCNs efficiently pose a significant challenge on the underlying hardware. Although specialized GCN accelerators have been proposed to deliver better performance over generic processors, prior accelerators not only under-utilize the compute engine, but also impose redundant data accesses that reduce throughput and energy efficiency. Therefore, optimizing the overall flow of data between compute engines and memory, i.e., the GCN dataflow, which maximizes utilization and minimizes data movement is crucial for achieving efficient GCN processing. In this project, we propose a flexible and optimized dataflow for GCNs that simultaneously improves resource utilization and reduces data movement. This is realized by fully exploring the design space of GCN dataflows and evaluating the number of execution cycles and DRAM accesses through an analysis framework. Unlike prior strategies, the proposed dataflow can reconfigure the loop order and loop fusion strategy to adapt to different GCN configurations, which results in much improved efficiency. We then introduce a novel accelerator architecture called GCNAX, which tailors the compute engine, buffer structure and size based on the proposed dataflow. Evaluated on five real-world graph datasets, our simulation results show that GCNAX reduces DRAM accesses by a factor of 8.1 X and 2.4 X, while achieving 8.9 X, 1.6 X, speedup and 9.5 X, 2.3 X energy savings on average over HyGCN and AWB-GCN, respectively.<br></p>
+                </div>
+              
+            </div>
         </div>
     </div>
 </section>

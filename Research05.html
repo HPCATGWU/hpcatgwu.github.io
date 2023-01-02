@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Heterogeneous Chiplet-Based Architectures</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuan Li;</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Hao Zheng and Yuan Li;</h3>
                 
             </div>
         </div>
@@ -132,13 +132,83 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Network-on-Chip (NoC) Design for Heterogeneous Manycores</h3>
-                    <p class="mbr-fonts-style display-7">Heterogeneous manycores comprised of CPUs, GPUs and accelerators are putting stringent demands on network-on-chips (NoCs). The NoCs need to support the combined traffic, including both latency-sensitive CPU traffic and throughput-sensitive GPU and accelerator traffic. We study the characteristics of the combined traffic, and observe that (1) the limited injection bandwidth is the main obstacle to throughput improvement, and (2) the latency due to local and global contention accounts for a significant portion of the network latency. We propose a router architecture for heterogeneous manycores. The proposed router architecture introduces two new optimizations: (1) increasing injection bandwidth to improve throughput, and (2) resolving local and global contention to reduce network latency. Specifically, our design increases the injection bandwidth through modifications to injection link, crossbar switch and buffer organization in the injection port of the router; our design identifies the upcoming local contention and resolves it by optimally selecting traffic routes; our design also utilizes a supervised learning engine to detect the global contention through traffic analysis and prediction, and alleviate it by adaptively adjusting traffic injection. Simulation results using the Rodinia benchmark show that the proposed router architecture provides 28% throughput increase, 24% latency reduction, 22% execution time speedup, and 19% energy efficiency improvement, compared to the baseline router.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects", in <em>Proceedings of the Design Automation Conference</em>, San Francisco, CA, December 5-9, 2021.</h3>
+                    <p class="mbr-fonts-style display-7">Chiplet-based architectures have been proposed to scale computing systems for deep neural networks (DNNs). Prior work has shown that for the chiplet-based DNN accelerators, the electrical network connecting the chiplets poses a major challenge to system performance, energy consumption, and scalability. Some emerging interconnect technologies such as silicon photonics can potentially overcome the challenges facing electrical interconnects as photonic interconnects provide high bandwidth density, superior energy efficiency, and ease of implementing broadcast and multicast operations that are prevalent in DNN inference. In this project, we propose a chiplet-based architecture named SPRINT for DNN inference. SPRINT uses a global buffer to simplify the data transmission between storage and computation, and includes two novel designs: (1) a reconfigurable photonic network that can support diverse communications in DN inference with minimal implementation cost, and (2) a customized dataflow that exploits the ease of broadcast and multicast feature of photonic interconnects to support highly parallel DNN computations. Simulation studies using ResNet-50 DNN&nbsp; model show&nbsp; that SPRNT achieves 46 percent and 61 percent execution time and energy consumption reduction, respectively, as compared to other state-of-the-art chiplet-based architectures with electrical or photonic interconnects.<br></p>
                 </div>
               
             </div>
         </div>
     </div>
+</section>
+
+<section class="cid-thfpqFyvn6" id="image2-ci">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 79%;">
+            <img src="assets/images/dac-1284x359.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-thfpj5Edu7" id="content6-cg">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng, K. Wang, and A. Louri, "Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
+                    <p class="mbr-fonts-style display-7">The increased computational capability in heterogeneous manycore architectures facilitates the concurrent execution of many applications. This requires, among other things, a flexible, high-performance, and energy-efficient communication fabric capable of handling a variety of traffic patterns needed for running multiple applications at the same time. Such stringent requirements are posing a major challenge for current Network-on-Chips (NoCs) design. In this project, we propose Adapt-NoC, a flexible NoC architecture, along with a reinforcement learning (RL)-based control policy, that can provide efficient communication support for concurrent application execution. Adapt-NoC can dynamically allocate several disjoint regions of the NoC, called subNoCs, with different sizes and locations for the concurrently running applications. Each of the dynamically-allocated subNoCs is capable of adapting to a given topology such as a mesh, cmesh, torus, or tree thus tailoring the topology to satisfy application's needs in terms of performance and power consumption. Moreover, we explore the use of RL to design an efficient control policy which optimizes the subNoC topology selection for a given application. As such, Adapt-NoC can not only provide several topology choices for concurrently running applications, but can also optimize the selection of the most suitable topology for a given application with the aim of improving performance and energy efficiency. We evaluate Adapt-NoC using both GPU and CPU benchmark suites. Simulation results show that the proposed Adapt-NoC can achieve up to 34 percent latency reduction, 10 percent overall execution time reduction and 53 percent NoC energy-efficiency improvement when compared to prior work.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-thfpr41Xe3" id="image2-cj">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 81%;">
+            <img src="assets/images/adaptnoc-1987x514.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-thfppyhcah" id="content6-ch">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">03.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng, K. Wang, and A. Louri, “A Versatile and Flexible Chiplet-based System Design for Heterogeneous Manycore Architectures”, in <em>Proceedings of Design Automation Conference</em>, Virtual Conference, July 20-24, 2020.</h3>
+                    <p class="mbr-fonts-style display-7">Heterogeneous manycore architectures are deployed to simultaneously run multiple and diverse applications. This requires various computing capabilities (CPUs, GPUs, and accelerators), and an efficient network-on-chip (NoC) architecture to concurrently handle diverse application communication behavior. However, supporting the concurrent communication requirements of diverse applications is challenging due to the dynamic application mapping, the complexity of handling distinct communication patterns and limited on-chip resources. In this project, we propose Adapt-NoC, a versatile and flexible NoC architecture for chiplet-based manycore architectures, consisting of adaptable routers and links. Adapt-NoC can dynamically allocate disjoint regions of the NoC, called subNoCs, for concurrently-running applications, each of which can be optimized for different communication behavior. The adaptable routers and links are capable of providing various subNoC topologies, satisfying different latency and bandwidth requirements of various traffic patterns (e.g. all-to-all, one-to-many). Full system simulation shows that AdaptNoC can achieve 31 percent latency reduction, 24 percent energy saving and 10 percent execution time reduction on average, when compared to prior designs.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-thfprpCUh8" id="image2-ck">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 79%;">
+            <img src="assets/images/versatile-1815x478.png" alt="" title="">
+            
+        </div>
+    </figure>
 </section>
 
 <section class="cid-rdPq2IPGYy" id="footer1-8n">

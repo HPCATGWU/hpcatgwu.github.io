@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Power-Efficient Scalable Manycore Architectures</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Hao Zheng, Ke Wang;</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Hao Zheng and Dr. Ke Wang;</h3>
                 
             </div>
         </div>
@@ -122,11 +122,11 @@
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="mbr-figure" style="width: 75%;">
-                      <img src="assets/images/power-724x530.png" alt="" title="">  
+                      <img src="assets/images/power-1-724x530.png" alt="" title="">  
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-7">Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance across all platforms –from hand-held, embedded systems, to laptops, to servers, to datacenters.<br></p><p><br>This challenge, often called the power wall, is seen across the board. To meet power challenges, recent research has proposed various low-power techniques. Power-gating, for example, is an effective technique that powers off the under-utilized components to reduce static power consumption.<br></p>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7">Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance on all platforms, from mobile devices to embedded systems, laptops, servers, and datacenters.<br></p><p><br>This challenge, often called the power wall, is seen across the board. To meet power challenges, recent research has proposed various low-power techniques. Power-gating, for example, is an effective technique that powers off the under-utilized components to reduce static power consumption.<br></p>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
     </div>
 </section>
 
-<section class="mbr-section article content12 cid-rcOimCByWQ" id="content6-4n">
+<section class="mbr-section article content12 cid-thf6zA7fK8" id="content6-c3">
      
 
     <div class="container">
@@ -154,7 +154,36 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng and A. Louri, “An Energy-Efficient Network-on-Chip Design using Reinforcement Learning”, in Proceedings of 56th Design Automation Conference (DAC’19), Las Vegas, NV, June 2-6, 2019.</h3>
+                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng and A. Louri, “Agile: A Learning-Enabled Power and Performance-Efficient Network-on-Chip Design", <em>IEEE Transactions on Emerging Topics in Computing</em>, 10.1 (2022): 223-236.</h3>
+                    <p class="mbr-fonts-style display-7">A number of techniques to achieve power-efficient Network-on-Chips (NoCs) have been proposed, two of which are power-gating and dynamic voltage and frequency scaling (DVFS). Power-gating reduces static power, and DVFS reduces dynamic power. With the goal of reducing both static and dynamic power, it is intuitive to simultaneously deploy both techniques. However, we observe that the straightforward combination of power-gating and DVFS can result in reduced power benefits and degraded performance. In this project, we uniquely combine power-gating and DVFS with the aim of maximizing the NoC power savings and improving performance. The proposed NoC design, called Agile, consists of several architectural designs and a reinforcement learning (RL) based control policy to mitigate the negative effects induced by the combined power-gating and DVFS. Specifically, a simple bypass switch is deployed to maintain network connectivity, avoiding frequently waking up the powered-off router. An optimized pipeline can simply pipeline stages of the bypass switch to reduce network latency. Reversible link channel buffers can be dynamically allocated to where they are needed to improve throughput. In addition, the RL control policy predicts NoC traffic and decides optimal power-gating decisions, voltage/frequency levels and NoC architecture configurations at runtime. Furthermore, we explore the use of an artificial neural network (ANN) to efficiently reduce the area overhead of implementing RL. We evaluate our design using PARSEC benchmarks suite. The full system simulation results show that the proposed design improves the overall power savings by up to 58 percent while improving the performance up to 11 percent as compared to state-of-the-art designs. The ANN-based RL implementation and bypass switch incur nominal area overhead of 5 percent, as compared to a conventional router.<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-thf9RoNAl0" id="image2-c7">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 60%;">
+            <img src="assets/images/agile-1176x610.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-rcOimCByWQ" id="content6-4n">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">02.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng and A. Louri, “An Energy-Efficient Network-on-Chip Design using Reinforcement Learning”, in <em>Proceedings of 56th Design Automation Conference (DAC’19)</em>, Las Vegas, NV, June 2-6, 2019.</h3>
                     <p class="mbr-fonts-style display-7">The design space for energy-efficient Network-on-Chips (NoCs) has expanded significantly comprising a number of techniques. The simultaneous application of these techniques to yield maximum energy efficiency requires the monitoring of a large number of system parameters which often results in substantial engineering efforts and complicated control policies. This motivates us to explore the use of reinforcement learning (RL) approach that automatically learns an optimal control policy to improve NoC energy efficiency. First, we deploy power-gating (PG) and dynamic voltage and frequency scaling (DVFS) to simultaneously reduce both static and dynamic power. Second, we use RL to automatically explore the dynamic interactions among PG, DVFS, and system parameters, learn the critical system parameters contained in the router and cache, and eventually evolve optimal per-router control policies that significantly improve energy efficiency. Moreover, we introduce an artificial neural network (ANN) to efficiently implement the large state-action table required by RL. Simulation results using PARSEC benchmark show that the proposed RL approach improves power consumption by 26%, while improving system performance by 7%, as compared to a combined PG and DVFS design without RL. Additionally, the ANN design yields 67% area reduction, as compared to a conventional RL implementation.&nbsp;<br></p>
                 </div>
               
@@ -170,8 +199,8 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">02.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Q. Fettes, M. Clark, R. Bunescu, A. Karanth, and A. Louri, “Dynamic Voltage and Frequency Scaling in NoCs with Supervised and Reinforcement Learning Techniques,” in IEEE Transactions on Computers (TC), Volume 68, Issue 3, pp.375-389 , March 2019.</h3>
+                    <h4 class="counter">03.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Q. Fettes, M. Clark, R. Bunescu, A. Karanth, and A. Louri, “Dynamic Voltage and Frequency Scaling in NoCs with Supervised and Reinforcement Learning Techniques,” in <em>IEEE Transactions on Computers (TC)</em>, Volume 68, Issue 3, pp.375-389 , March 2019.</h3>
                     <p class="mbr-fonts-style display-7">Network-on-Chips (NoCs) are the de facto choice for designing the interconnect fabric in multicore chips due to their regularity, efficiency, simplicity, and scalability. However, NoC suffers from excessive static power and dynamic energy due to transistor leakage current and data movement between the cores and caches. Power consumption issues are only exacerbated by ever decreasing technology sizes. Dynamic Voltage and Frequency Scaling (DVFS) is one technique that seeks to reduce dynamic energy; however this often occurs at the expense of performance. In this paper, we propose LEAD Learning-enabled Energy-Aware Dynamic voltage/frequency scaling for multicore architectures using both supervised learning and reinforcement learning approaches. LEAD groups the router and its outgoing links into the same V/F domain and implements proactive DVFS mode management strategies that rely on offline trained machine learning models in order to provide optimal V/F mode selection between different voltage/frequency pairs. We present three supervised learning versions of LEAD that are based on buffer utilization, change in buffer utilization and change in energy/throughput, which allow proactive mode selection based on accurate prediction of future network parameters. We then describe a reinforcement learning approach to LEAD that optimizes the DVFS mode selection directly, obviating the need for label and threshold engineering. Simulation results using PARSEC and Splash-2 benchmarks on a 4 × 4 concentrated mesh architecture show that by using supervised learning LEAD can achieve an average dynamic energy savings of 15.4 percent for a loss in throughput of 0.8 percent with no significant impact on latency. When reinforcement learning is used, LEAD increases average dynamic energy savings to 20.3 percent at the cost of a 1.5 percent decrease in throughput and a 1.7 percent increase in latency. Overall, the more flexible reinforcement learning approach enables learning an optimal behavior for a wider range of load environments under any desired energy versus throughput tradeoff.</p>
                 </div>
               
@@ -187,8 +216,8 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">03.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">M. Clark, A. Kodi, R. Bunescu and A. Louri, “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,” to appear in Proceedings of the 55th Design Automation Conference (DAC), San Francisco, CA, 2018.</h3>
+                    <h4 class="counter">04.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">M. Clark, A. Kodi, R. Bunescu and A. Louri, “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,” in <em>Proceedings of the 55th Design Automation Conference (DAC)</em>, San Francisco, CA, 2018.</h3>
                     <p class="mbr-fonts-style display-7">Network on Chips (NoCs) are the interconnect fabric of choice for multicore processors due to their superiority over traditional buses and crossbars in terms of scalability. While NoC’s offer several advantages, they still suffer from high static and dynamic power consumption. Dynamic Voltage and Frequency Scaling (DVFS) is a popular technique that allows dynamic energy to be saved, but it can potentially lead to loss in throughput. In this paper, we propose LEAD - Learning- enabled Energy-Aware Dynamic voltage/frequency scaling for NoC architectures wherein we use machine learning techniques to enable energy-performance trade-offs at reduced overhead cost. LEAD enables a proactive energy management strategy that relies on an offline trained regression model and provides a wide variety of voltage/frequency pairs (modes). LEAD groups each router and the router’s outgoing links locally into the same V/F domain, allowing energy management at a finer granularity without additional timing complications and overhead. Our simulation results using PARSEC and Splash-2 benchmarks on a 4 × 4 concentrated mesh architecture show an average dynamic energy savings of 17% with a minimal loss of 4% in throughput and no latency increase.</p>
                 </div>
               
@@ -218,8 +247,8 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">04.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng and A. Louri, “EZ-Pass: An Energy &amp; Performance-Efficient Power-gating Router Architecture for Scalable NoCs,” in IEEE Computer Architecture Letters, vol. PP, no. 99, Dec. 2017.</h3>
+                    <h4 class="counter">05.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng and A. Louri, “EZ-Pass: An Energy &amp; Performance-Efficient Power-gating Router Architecture for Scalable NoCs,” in <em>IEEE Computer Architecture Letters</em>, vol. PP, no. 99, Dec. 2017.</h3>
                     <p class="mbr-fonts-style display-7">With technology scaling into nanometer regime, static power is becoming the dominant factor in the overall power consumption of Network- on-Chips (NoCs). Static power can be reduced by powering off routers during consecutive idle time through power-gating techniques. However, power-gating techniques suffer from a large wake-up latency to wake up the powered-off routers. Recent research aims to improve the wake-up latency penalty by hiding it through early wake-up techniques. However, these techniques do not exploit the full advantage of power-gating due to the early wake-up. Consequently, they do not achieve significant power savings. In this paper, we propose an architecture called Easy Pass (EZ-Pass) router that remedies the large wake-up latency overheads while providing significant static power savings. The proposed architecture takes advantage of idle resources in the network interface to transmit packets without waking up the router. Additionally, the technique hides the wake-up latency by continuing to provide packet transmission during the wake-up phase. We use full system simulation to evaluate our EZ-Pass router on a 64-core NoC with a mesh topology using PARSEC benchmark suites. Our results show that the proposed router reduces static power by up to 31% and overall network latency by up to 32% as compared to early-wakeup optimized power-gating techniques.</p>
                 </div>
               
@@ -249,8 +278,8 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
-                    <h4 class="counter">05.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">D. DiTomaso, A. Sikder, A. Kodi and A. Louri, “Machine learning enabled power-aware Network-on-Chip design,” in Proceedings of the Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE), 2017, Lausanne, 2017, pp. 1354-1359.</h3>
+                    <h4 class="counter">06.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">D. DiTomaso, A. Sikder, A. Kodi and A. Louri, “Machine learning enabled power-aware Network-on-Chip design,” in <em>Proceedings of the Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE)</em>, 2017, Lausanne, 2017, pp. 1354-1359.</h3>
                     <p class="mbr-fonts-style display-7">Although Network-on- Chips (NoCs) are fast becoming pervasive as the interconnect fabric for multicore architectures and systems-on- chips, they still suffer from excessive static and dynamic power consumption. High dynamic power consumption results from switching and storing data within routers/links while excess static power is consumed when routers and links are not utilized for communication and yet have to be powered up. In this paper, we propose LESSON (Learning Enabled Sleepy Storage Links and Routers in NoCs) to reduce both static and dynamic power consumption by power-gating the links and routers at low network utilization and moving the data storage from within the routers to the links at high network utilization. As the network utilization increases from low-to- high, to accommodate more traffic, we design the same channels to flow traffic in either direction, thereby avoiding complex routing or look-ahead wake-up algorithms. Machine learning algorithms predict when to power-gate the channels and routers and when to increase the channel bandwidths such that power savings are maximized while performance penalty is minimized. Our results show that we can improve total network power consumption when compared to conventional NoC buffer designs by 85.6% and when compared with aggressive NoC buffer designs by 31.7%. Our predictor shows marginal performance penalties and by dynamically changing the direction of the links, we can improve packet latency by 14%.</p>
                 </div>
               
