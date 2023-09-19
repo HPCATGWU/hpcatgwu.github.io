@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT_Github",
-    "currentPage": "News.html",
+    "currentPage": "Director.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 544,
+    "uniqCompNum": 550,
     "versionPublish": "5.3.10",
     "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2018-12-31-at-12.35.34-128x125.png",
     "noImageResize": "",
@@ -1232,7 +1232,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at the George Washington University, which he joined in August 2015. He is also the Director of the High Performance Computing Architectures and Technologies Laboratory (HPCAT https://hpcat.seas.gwu.edu/). Dr. Louri received the Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles, California in 1988. From 1988 to 2015, he was a Professor of Electrical and Computer Engineering at the University of Arizona, and during that time, he served six years (2000 to 2006) as the Chair of the Computer Engineering Program. Throughout his career, he has held invited visiting scientist positions and served as a research fellow at various institutions, including the University of Electro-Communications, Chofu, Japan; the Communications Research Laboratory, Tokyo, Japan; the Laboratoire d’Informatique du Parallelism, Lyon, France; the University of Tsukuba, Tsukuba, Japan; the University of Paul Sabatier, Toulouse, France; and the Centre Nationale de Recherche Scientifique (CNRS), Toulouse, France.<div><br></div><div>From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including: Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; and Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security. He played a key role in the creation of the Scalable Parallelism in the Extreme program, which is now in its fourth year.</div><div><br></div><div>Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, scalable parallel computing systems, versatile and flexible computing systems, and power-efficient, reliable, and secure Network-on-Chips (NoCs) for multicore architectures. Recently, he has been concentrating on: energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; secure network-on-chips for multicores and SoCs; approximate computing and communications; machine learning techniques for efficient computing, memory, and interconnect systems; heterogeneous manycore architectures &amp; chiplet-based designs; emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and chip multiprocessors (CMPs); future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); and cloud-computing and data centers. He has published more than 200 refereed journal articles and peer-reviewed conference papers and is the co-inventor on several US and international patents. &nbsp;<span style=\"font-size: 19.2px;\">His early work explored optics’ unique properties to advance computing and communications. He was instrumental in bringing optical interconnects into mainstream research in computing and played a critical role in bridging the gap between the computer architecture and optics research communities. He received the Best Article Award from IEEE Micro, and was runner-up for the best paper award at several conferences.&nbsp;</span></div><div><span style=\"font-size: 19.2px;\"><br></span></div><div>Dr. Louri is the recipient of IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, \"for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” The IEEE Computer Society Edward J. McCluskey Technical Achievement Award is given for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10 to 15 years. Contributions must have significantly promoted technical progress in the field.\n</div><div><a href=\"https://www.computer.org/profiles/ahmed-louri\">https://www.computer.org/profiles/ahmed-louri</a>. IEEE has made a video of the award which can be seen at the following link: <a href=\"https://youtu.be/W-ejXgVxV9c\">https://youtu.be/W-ejXgVxV9c</a> \n</div><div><br></div><div>Dr. Louri’s research has been sponsored by NSF, Department of Energy, Air Force Office of Scientific Research, the David and Marilyn Karlgaard Endowment Fund, and industrial corporations such as Intel, IBM, Cisco, Sun Microsystems (now Oracle), Raytheon, Physical Optics Corporation, and US West Technologies.&nbsp;</div><div><br></div><div>Dr. Louri is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of IEEE Computer Society (CS) Technical Committee on Computer Architecture, the IEEE CS Technical Committee on Parallel Processing, the IEEE CS Technical Committee on Microprocessors &amp; Microcomputers, and the Optical Society of America. He is the recipient of the highly competitive and prestigious NSF Research Initiation Award (now called the NSF CAREER Award), the Advanced Telecommunications Organization of Japan Fellowship, the CNRS Research Excellence Fellowship, the Japan Society for the Promotion of Science Fellowship, and the NSF Outstanding Service Award in recognition of his outstanding service to the field of computing and the research community, as well as several teaching awards.</div><div><br></div><div>Dr. Louri served as program area chair of the 34th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS-2020), the  general chair for the 25th IEEE CS Annual Symposium of the High Performance Computer Architecture (HPCA, 2019), the general chair of the 21st IEEE International Conference on High Performance Computing and Communications (HPCC-2019), the general chair of the 13th IEEE CS Annual Symposium of the High Performance Computer Architecture (HPCA, 2007), the general co-chair of the Second Workshop on Optics in Communications and Computer Sciences (1999); and the general chair for the Workshop on Optics in High-Performance Computing Systems (1996). He was the founding member of the NSF Workshop on Emerging Technologies for Interconnects (WETI, 2012), and the NSF Workshop on Cross-Layer Power Optimization and Management (CPROM, 2012). Findings and recommendations of the WETI and CPROM workshops played a critical role in NSF research initiatives in these areas.&nbsp;</div><div><br></div><div>Dr. Louri is the Editor-in-Chief of the IEEE Transactions on Computers (2019 -2023), the flagship journal for the IEEE Computer Society. He is also currently serving as associate editor for the IEEE Transaction on Sustainable Computing (2016 – present) and IEEE Transactions on Cloud Computing (2020 – present). He previously served on the editorial boards for IEEE Transactions on Computers (2011 – 2016), IEEE Transactions on Emerging Technologies for Computing (2015 - 2019), and Cluster Computing, the Journal of Networks, Software Tools and Applications (2000 – 2010). Since January 2016, he has served on the steering committee for IEEE Transactions on Sustainable Computing. He also served as guest editor for special issues in the Journal of Parallel and Distributed Computing (2010).  Dr. Louri’s recent IEEE CS committee service includes being: chair for the IEEE Computer Architecture Letters Editor-in-Chief Search Committee (2021), vice-chair for the IEEE CS Fellow Evaluation Committee (2021),  chair for the IEEE Transactions on Cloud Computing Editor-in-Chief Search Committee (2019), chair for the IEEE CS Fellow Evaluation Committee (2019), an evaluator on the IEEE CS Fellow Evaluation Committee (2012), vice-chair for the IEEE CS Fellow Evaluation Committee (2017 and 2018), and a member of IEEE CS Computer Entrepreneur Award Committee (2017).</div><div><br></div><div><span style=\"font-size: 19.2px;\">For over 30 years, Dr. Louri has served and continues to serve on the executive and technical program committees of numerous international conferences, including the IEEE Symposium on High Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA), the International Parallel &amp; Distributed Processing Symposium (IPDPS), the International Conference on Parallel Processing (ICPP), ACM/IEEE Symposium on Architectures for Networking &amp; Communication Systems (ANCS), IEEE/ACM International Symposium on Microarchitecture (Micro), the International Conference on Parallel Architectures &amp; Compilation Techniques (PACT), ACM/IEEE International Symposium on Networks-on-Chips (NOCS), IEEE Hot Interconnects, the Optical Society of America, meetings on Optics in Computing, among many others. He also was invited as panel moderator of several conferences including NOCS, HPCA, and HPCC. He has served and continues to serve as a reviewer and panelist of funding agencies, including NSF, Agence Nationale de la Recherche (France), Qatar National Research Foundation, Hong Kong National Research Council, European Research Council, and others. He is often invited to be the keynote speaker at various conferences.</span></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at George Washington University, which he joined in August 2015. He is also the Director of the High-Performance Computing Architectures and Technologies Laboratory (HPCAT, https://hpcat.seas.gwu.edu/). Dr. Louri received a Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles, California in 1988. From 1988 to 2015, he was a Professor of Electrical and Computer Engineering at the University of Arizona, and during that time, he served six years (2000 to 2006) as the Chair of the Computer Engineering Program. Throughout his career, he has held invited visiting scientist positions and served as a research fellow at various institutions, including the University of Electro-Communications, Chofu, Japan; the Communications Research Laboratory, Tokyo, Japan; the Laboratoire d’Informatique du Parallelism, Lyon, France; the University of Tsukuba, Tsukuba, Japan; the University of Paul Sabatier, Toulouse, France; the Centre Nationale de Recherche Scientifique (CNRS), Toulouse, France.&nbsp;</p><p><span style=\"font-size: 19.2px;\">From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, scalable parallel computing systems, versatile and flexible computing systems, and power-efficient, reliable, and secure Network-on-Chips (NoCs) for multicore architectures. Recently, he has been concentrating on energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; secure network-on-chips for multicores and SoCs; approximate computing and communications; machine learning techniques for efficient computing, memory, and interconnect systems; heterogeneous manycore architectures &amp; chiplet-based designs; emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and chip multiprocessors (CMPs); future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); cloud-computing and data centers. He has published more than 200 refereed journal articles and peer-reviewed conference papers and is the inventor of several US and international patents. His early work explored optics’ unique properties to advance computing and communications. He was instrumental in bringing optical interconnects into mainstream research in computing and played a critical role in bridging the gap between the computer architecture and optics research communities. He received the Best Article Award from IEEE Micro and was runner-up for the Best Paper Award at several conferences.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of the IEEE Computer Society (CS) Technical Committee on Computer Architecture, the IEEE CS Technical Committee on Parallel Processing, the IEEE CS Technical Committee on Microprocessors &amp; Microcomputers, and the Optical Society of America. Dr. Louri is the recipient of the IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, \"for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” The IEEE Computer Society Edward J. McCluskey Technical Achievement Award is given for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10 to 15 years. Contributions must have significantly promoted technical progress in the field. https://www.computer.org/profiles/ahmed-louri. IEEE has made a video of the award which can be seen at the following link: https://youtu.be/W-ejXgVxV9c. He is also the recipient of the Office of Vice President for Research Distinguished Researcher Award, George Washington University, 2021. This award is given to one scholar who has made significant contributions in research and scholarship to the university and society. He is also the recipient of the NSF CAREER Award, the Advanced Telecommunications Organization of Japan Fellowship, the CNRS Research Excellence Fellowship, the Japan Society for the Promotion of Science Fellowship, and the NSF Outstanding Service Award in recognition of his outstanding service to the field of computing and the research community, Best Article Award from IEEE Micro, and several Best Conference Paper and teaching awards.</span></p><p>Dr. Louri served as the program area chair of the 34th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS 2020), the general chair for the 25th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2019), the general chair of the 21st IEEE International Conference on High-Performance Computing and Communications (HPCC 2019), the general chair of the 13th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2007), the general co-chair of the Second Workshop on Optics in Communications and Computer Sciences (1999), and the general chair for the Workshop on Optics in High-Performance Computing Systems (1996). For over 30 years, Dr. Louri has served and continues to serve on the executive and technical program committees of numerous international conferences, including the IEEE Symposium on High-Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA), the International Parallel &amp; Distributed Processing Symposium (IPDPS), the International Conference on Parallel Processing (ICPP), ACM/IEEE Symposium on Architectures for Networking &amp; Communication Systems (ANCS), IEEE/ACM International Symposium on Microarchitecture (Micro), the International Conference on Parallel Architectures &amp; Compilation Techniques (PACT), ACM/IEEE International Symposium on Networks-on-Chips (NOCS), IEEE Hot Interconnects, the Optical Society of America, meetings on Optics in Computing, among many others. He also was invited as a panel moderator of several conferences including NOCS, HPCA, and HPCC. He has served as a reviewer and panelist of funding agencies, including NSF, DARPA, DOE, AFOSR, Agence Nationale de la Recherche (France), Qatar National Research Foundation, Hong Kong National Research Council, European Research Council, among several others. He consults for industry and is often invited to be the keynote speaker at various conferences.</p><p>Dr. Louri is the Editor-in-Chief of the IEEE Transactions on Computers (2019 - 2023), the flagship journal of the IEEE Computer Society (CS). He is also currently serving as associate editor for the IEEE Transactions on Sustainable Computing (2016 - present) and IEEE Transactions on Cloud Computing (2020 - present). He previously served on the editorial boards for IEEE Transactions on Computers (2011 - 2016), IEEE Transactions on Emerging Technologies for Computing (2015 - 2019), and Cluster Computing, the Journal of Networks, Software Tools and Applications (2000 - 2010). Since January 2016, he has served on the steering committee for IEEE Transactions on Sustainable Computing. He also served as a guest editor for special issues in the Journal of Parallel and Distributed Computing (2010). Dr. Louri’s recent IEEE CS committee service includes being the Chair for the IEEE Computer Society, 2022 Edward J. McCluskey Technical Achievement Award, member of the IEEE Fellow Committee (January 2022 through 31 December 2023), Chair for the IEEE Computer Architecture Letters Editor-in-Chief Search Committee (2021), Vice-Chair for the IEEE CS Fellow Evaluation Committee (2017,2018,2021), Chair for the IEEE Transactions on Cloud Computing Editor-in-Chief Search Committee (2019), Chair of the IEEE CS Fellow Evaluation Committee (2019), evaluator on the IEEE CS Fellow Evaluation Committee (2012), a member of IEEE CS Computer Entrepreneur Award Committee, among several others.</p><p></p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r8KuAgZ9TO",
           "_anchor": "content1-18",
           "_PHPplaceholders": [],
@@ -1401,7 +1401,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "news",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2102,7 +2102,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "OpenPosi",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -2811,7 +2811,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "OurGroup",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4154,7 +4154,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Books",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -4759,7 +4759,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "publica",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5364,7 +5364,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "postdoc",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -5971,7 +5971,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "undergrad",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -14529,7 +14529,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Previous",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -28855,6 +28855,666 @@
           "_cid": "tlbJLsQE0B",
           "_protectedParams": [],
           "_params": {}
+        }
+      ]
+    },
+    "page26.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Director (before September 19 2023 update)",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h1": {
+              "color": "black",
+              "-webkit-text-stroke": "1px #000000",
+              "font-weight": "bold"
+            },
+            "h2, h3, p": {
+              "color": "#767676"
+            },
+            ".mbr-section-subtitle": {
+              "font-style": "italic"
+            },
+            "H3": {
+              "color": "#2e2e2e",
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right",
+              "color": "#FFFFFF"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "h3": {
+              "color": "black",
+              "-webkit-text-stroke": "1px #000000",
+              "font-weight": "bold"
+            },
+            "B": {
+              "color": "#FFFFFF"
+            },
+            ".container": {
+              "max-width": "1800px"
+            }
+          },
+          "_name": "header9",
+          "_customHTML": "<section class=\"header9\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dsc-1267-6-2000x1340.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white col-md-12\">\n            <h1 class=\"mbr-section-title align-right mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><p>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><br><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Ahmed Louri<br></p></h1>\n            <h3 class=\"mbr-section-subtitle align-right mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><p><b>&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Professor of ECE</b><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b>and IEEE Fellow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br></p></h3>\n            <p class=\"mbr-text align-right pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"></p>\n        </div>\n    </div>\n    \n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "tQjdIFXK8R",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header9-f4"
+        },
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.5rem 0 !important",
+                "margin": "0rem .5rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 0.6rem",
+              ".mbr-iconfont": {
+                "font-size": "1.5rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "1rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "5rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"2\" max=\"8\" step=\"0.1\" value=\"2.9\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#000000\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#000000\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#acc7ea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"Index.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2018-12-31-at-12.35.34-122x119.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-2\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-3\" data-app-placeholder=\"Type Text\">HPCAT<br></a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Home</font></a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"Director.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Director</font></a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"index.html#content9-23\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Research</font></a></li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"Journal.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-edit mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Publications</font></a>\n                </li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"OurGroup.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                    <font size=\"+1\">Members</font><br></a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"News.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">News</font></a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"OpenPositions.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-search mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Open Positions</font></a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"ContactUs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>\n                        <font size=\"+1\">Contact Us</font></a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "tQjdIGh6ga",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu1-f5"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "justify",
+              "font-size": "120%",
+              "line-height": "1",
+              "font-family": "\"Times New Roman\", Times, serif",
+              "color": "#232323"
+            },
+            ".container": {
+              "max-width": "2500px"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at the George Washington University, which he joined in August 2015. He is also the Director of the High Performance Computing Architectures and Technologies Laboratory (HPCAT https://hpcat.seas.gwu.edu/). Dr. Louri received the Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles, California in 1988. From 1988 to 2015, he was a Professor of Electrical and Computer Engineering at the University of Arizona, and during that time, he served six years (2000 to 2006) as the Chair of the Computer Engineering Program. Throughout his career, he has held invited visiting scientist positions and served as a research fellow at various institutions, including the University of Electro-Communications, Chofu, Japan; the Communications Research Laboratory, Tokyo, Japan; the Laboratoire d’Informatique du Parallelism, Lyon, France; the University of Tsukuba, Tsukuba, Japan; the University of Paul Sabatier, Toulouse, France; and the Centre Nationale de Recherche Scientifique (CNRS), Toulouse, France.<div><br></div><div>From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including: Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; and Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security. He played a key role in the creation of the Scalable Parallelism in the Extreme program, which is now in its fourth year.</div><div><br></div><div>Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, scalable parallel computing systems, versatile and flexible computing systems, and power-efficient, reliable, and secure Network-on-Chips (NoCs) for multicore architectures. Recently, he has been concentrating on: energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; secure network-on-chips for multicores and SoCs; approximate computing and communications; machine learning techniques for efficient computing, memory, and interconnect systems; heterogeneous manycore architectures &amp; chiplet-based designs; emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and chip multiprocessors (CMPs); future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); and cloud-computing and data centers. He has published more than 200 refereed journal articles and peer-reviewed conference papers and is the co-inventor on several US and international patents. &nbsp;<span style=\"font-size: 19.2px;\">His early work explored optics’ unique properties to advance computing and communications. He was instrumental in bringing optical interconnects into mainstream research in computing and played a critical role in bridging the gap between the computer architecture and optics research communities. He received the Best Article Award from IEEE Micro, and was runner-up for the best paper award at several conferences.&nbsp;</span></div><div><span style=\"font-size: 19.2px;\"><br></span></div><div>Dr. Louri is the recipient of IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, \"for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” The IEEE Computer Society Edward J. McCluskey Technical Achievement Award is given for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10 to 15 years. Contributions must have significantly promoted technical progress in the field.\n</div><div><a href=\"https://www.computer.org/profiles/ahmed-louri\">https://www.computer.org/profiles/ahmed-louri</a>. IEEE has made a video of the award which can be seen at the following link: <a href=\"https://youtu.be/W-ejXgVxV9c\">https://youtu.be/W-ejXgVxV9c</a> \n</div><div><br></div><div>Dr. Louri’s research has been sponsored by NSF, Department of Energy, Air Force Office of Scientific Research, the David and Marilyn Karlgaard Endowment Fund, and industrial corporations such as Intel, IBM, Cisco, Sun Microsystems (now Oracle), Raytheon, Physical Optics Corporation, and US West Technologies.&nbsp;</div><div><br></div><div>Dr. Louri is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of IEEE Computer Society (CS) Technical Committee on Computer Architecture, the IEEE CS Technical Committee on Parallel Processing, the IEEE CS Technical Committee on Microprocessors &amp; Microcomputers, and the Optical Society of America. He is the recipient of the highly competitive and prestigious NSF Research Initiation Award (now called the NSF CAREER Award), the Advanced Telecommunications Organization of Japan Fellowship, the CNRS Research Excellence Fellowship, the Japan Society for the Promotion of Science Fellowship, and the NSF Outstanding Service Award in recognition of his outstanding service to the field of computing and the research community, as well as several teaching awards.</div><div><br></div><div>Dr. Louri served as program area chair of the 34th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS-2020), the  general chair for the 25th IEEE CS Annual Symposium of the High Performance Computer Architecture (HPCA, 2019), the general chair of the 21st IEEE International Conference on High Performance Computing and Communications (HPCC-2019), the general chair of the 13th IEEE CS Annual Symposium of the High Performance Computer Architecture (HPCA, 2007), the general co-chair of the Second Workshop on Optics in Communications and Computer Sciences (1999); and the general chair for the Workshop on Optics in High-Performance Computing Systems (1996). He was the founding member of the NSF Workshop on Emerging Technologies for Interconnects (WETI, 2012), and the NSF Workshop on Cross-Layer Power Optimization and Management (CPROM, 2012). Findings and recommendations of the WETI and CPROM workshops played a critical role in NSF research initiatives in these areas.&nbsp;</div><div><br></div><div>Dr. Louri is the Editor-in-Chief of the IEEE Transactions on Computers (2019 -2023), the flagship journal for the IEEE Computer Society. He is also currently serving as associate editor for the IEEE Transaction on Sustainable Computing (2016 – present) and IEEE Transactions on Cloud Computing (2020 – present). He previously served on the editorial boards for IEEE Transactions on Computers (2011 – 2016), IEEE Transactions on Emerging Technologies for Computing (2015 - 2019), and Cluster Computing, the Journal of Networks, Software Tools and Applications (2000 – 2010). Since January 2016, he has served on the steering committee for IEEE Transactions on Sustainable Computing. He also served as guest editor for special issues in the Journal of Parallel and Distributed Computing (2010).  Dr. Louri’s recent IEEE CS committee service includes being: chair for the IEEE Computer Architecture Letters Editor-in-Chief Search Committee (2021), vice-chair for the IEEE CS Fellow Evaluation Committee (2021),  chair for the IEEE Transactions on Cloud Computing Editor-in-Chief Search Committee (2019), chair for the IEEE CS Fellow Evaluation Committee (2019), an evaluator on the IEEE CS Fellow Evaluation Committee (2012), vice-chair for the IEEE CS Fellow Evaluation Committee (2017 and 2018), and a member of IEEE CS Computer Entrepreneur Award Committee (2017).</div><div><br></div><div><span style=\"font-size: 19.2px;\">For over 30 years, Dr. Louri has served and continues to serve on the executive and technical program committees of numerous international conferences, including the IEEE Symposium on High Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA), the International Parallel &amp; Distributed Processing Symposium (IPDPS), the International Conference on Parallel Processing (ICPP), ACM/IEEE Symposium on Architectures for Networking &amp; Communication Systems (ANCS), IEEE/ACM International Symposium on Microarchitecture (Micro), the International Conference on Parallel Architectures &amp; Compilation Techniques (PACT), ACM/IEEE International Symposium on Networks-on-Chips (NOCS), IEEE Hot Interconnects, the Optical Society of America, meetings on Optics in Computing, among many others. He also was invited as panel moderator of several conferences including NOCS, HPCA, and HPCC. He has served and continues to serve as a reviewer and panelist of funding agencies, including NSF, Agence Nationale de la Recherche (France), Qatar National Research Foundation, Hong Kong National Research Council, European Research Council, and others. He is often invited to be the keynote speaker at various conferences.</span></div></div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "tQjdIGAMnW",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-f6"
+        },
+        {
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video3",
+          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked=\"\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video=\"\">\n                <iframe src=\"https://www.youtube.com/watch?v=W-ejXgVxV9c&amp;loop=1&amp;autoplay=1\"></iframe>\n            </div>\n        </div>\n        \n    </figure>\n    \n\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "tQjdIGNOD7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "video3-f7"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#000000"
+            },
+            ".mbr-text P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\" mbr-class=\"{'col-md-6': widthContent == 2, 'col-md-8': widthContent == 5, 'col-md-10': widthContent == 5, 'col-md-12': widthContent == 8}\"><p><span style=\"font-size: 24px;\"><b>Prof. Ahmed Louri, IEEE Fellow, is the recipient of the IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, “for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” <a href=\"https://www.computer.org/press-room/2020-news/ahmed-louri-named-to-receive-ieee-cs-mccluskey-technical-achievement-award\">(Read More)</a></b></span></p></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "tQjdIH4Nhc",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-f8"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "10rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                "-webkit-justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "justify-content": "center",
+                  "-webkit-justify-content": "center"
+                }
+              }
+            },
+            "B": {
+              "color": "#232323"
+            },
+            "P": {
+              "color": "#232323"
+            },
+            "H5": {
+              "color": "#232323"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected>6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#acc7ea\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"#top\">\n                        <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2018-12-31-at-12.35.34-310x302.png\" alt=\"Mobirise\" title>\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-5 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\"><b>HPCAT Lab<br>High Performance Computing Architectures &amp; Technologies&nbsp;Lab</b><br></h5>\n                <p class=\"mbr-text\"><b>Department of Electrical and Computer Enginnering </b><br><b>School of Engineering and Applied Science<br>The George Washington University </b><br><br>800 22nd Street NW<br>Washington, DC 20052<br>United States of America&nbsp;</p>\n            </div>\n            <div class=\"col-12 col-md-6 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\"><b>\n                    Contact</b></h5>\n                <p class=\"mbr-text\"><b>Ahmed Louri, IEEE Fellow</b><br>David and Marilyn Karlgaard Endowed Chair Professor of ECE<br>Director, &nbsp;HPCAT Lab&nbsp;<br><br><br>Email: louri@gwu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Phone: +1 (202) 994 8241<br></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2019 HPCAT - All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/HpcatLab\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"sorry.html\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"sorry.html\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-youtube socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"sorry.html\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"sorry.html\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-googleplus socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"sorry.html\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-wechat socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "tQjdIHkikv",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "footer1-f9"
         }
       ]
     }
