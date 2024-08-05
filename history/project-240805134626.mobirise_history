@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT_Github",
-    "currentPage": "Conference.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@/"
   },
   "pages": {
     "ContactUs.html": {
