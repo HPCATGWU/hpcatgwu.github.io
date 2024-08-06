@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT_Github",
-    "currentPage": "index.html",
+    "currentPage": "News.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -17362,6 +17362,24 @@
           "_params": {}
         },
         {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-3b",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "rcMWDR8zYP",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-3a",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "rcMWAUqX8R",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -17872,6 +17890,24 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-32",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "r9RrCiuZux",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-35",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "r9RsIhhuDf",
+          "_protectedParams": [],
           "_params": {}
         },
         {
@@ -18795,6 +18831,24 @@
           "_params": {}
         },
         {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-30",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "r9RrzDLoIy",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-31",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "r9RrAjFfBb",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -18887,6 +18941,15 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-2z",
+          "_customHTML": "",
+          "_styles": {},
+          "_cid": "r9Rry6zsam",
+          "_protectedParams": [],
           "_params": {}
         }
       ]
