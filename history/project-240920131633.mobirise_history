@@ -53,7 +53,7 @@
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "imageResize": true,
-    "mbrsiteDomain": "bozacti72g",
+    "mbrsiteDomain": "crdr3o1xdw",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -61,8 +61,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/",
-    "usedWebp": false
+    "publishPath": "@PROJECT_PATH@/"
   },
   "pages": {
     "ContactUs.html": {
