@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HPCAT_Github",
-    "currentPage": "Director.html",
+    "currentPage": "ContactUs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -60,6 +60,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@/",
+    "mbrsite": "mbrsite://%7B%22id%22%3A808765%2C%22domain%22%3A%22ldprqnnwkx.mobirisesite.com%22%7D",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false
@@ -1241,7 +1244,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at George Washington University, which he joined in August 2015. He is also the Director of the High-Performance Computing Architectures and Technologies Laboratory (HPCAT, https://hpcat.seas.gwu.edu/). Dr. Louri received a Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles, California in 1988. From 1988 to 2015, he was a Professor of Electrical and Computer Engineering at the University of Arizona, and during that time, he served six years (2000 to 2006) as the Chair of the Computer Engineering Program. Throughout his career, he has held invited visiting scientist positions and served as a research fellow at various institutions, including the University of Electro-Communications, Chofu, Japan; the Communications Research Laboratory, Tokyo, Japan; the Laboratoire d’Informatique du Parallelism, Lyon, France; the University of Tsukuba, Tsukuba, Japan; the University of Paul Sabatier, Toulouse, France; the Centre Nationale de Recherche Scientifique (CNRS), Toulouse, France.&nbsp;</p><p><span style=\"font-size: 19.2px;\">From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, scalable parallel computing systems, versatile and flexible computing systems, and power-efficient, reliable, and secure Network-on-Chips (NoCs) for multicore architectures. Recently, he has been concentrating on energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; secure network-on-chips for multicores and SoCs; approximate computing and communications; machine learning techniques for efficient computing, memory, and interconnect systems; heterogeneous manycore architectures &amp; chiplet-based designs; emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and chip multiprocessors (CMPs); future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); cloud-computing and data centers. He has published more than 200 refereed journal articles and peer-reviewed conference papers and is the inventor of several US and international patents. His early work explored optics’ unique properties to advance computing and communications. He was instrumental in bringing optical interconnects into mainstream research in computing and played a critical role in bridging the gap between the computer architecture and optics research communities. He received the Best Article Award from IEEE Micro and was runner-up for the Best Paper Award at several conferences.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri is a Life Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of the IEEE Computer Society (CS) Technical Committee on Computer Architecture, the IEEE CS Technical Committee on Parallel Processing, the IEEE CS Technical Committee on Microprocessors &amp; Microcomputers, and the Optical Society of America. Dr. Louri is the recipient of the IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, \"for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” The IEEE Computer Society Edward J. McCluskey Technical Achievement Award is given for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10 to 15 years. Contributions must have significantly promoted technical progress in the field. <a href=\"https://www.computer.org/profiles/ahmed-louri\" class=\"text-primary\" target=\"_blank\">https://www.computer.org/profiles/ahmed-louri</a>. IEEE has made a video of the award which can be seen at the following link: <a href=\"https://www.youtube.com/watch?v=W-ejXgVxV9c\" class=\"text-primary\" target=\"_blank\">https://youtu.be/W-ejXgVxV9c</a>. He is also the recipient of the Office of Vice President for Research Distinguished Researcher Award, George Washington University, 2021. This award is given to one scholar who has made significant contributions in research and scholarship to the university and society. He is also the recipient of the NSF CAREER Award, the Advanced Telecommunications Organization of Japan Fellowship, the CNRS Research Excellence Fellowship, the Japan Society for the Promotion of Science Fellowship, and the NSF Outstanding Service Award in recognition of his outstanding service to the field of computing and the research community.</span></p><p>Dr. Louri served as the program area chair of the 34th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS 2020), the general chair for the 25th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2019), the general chair of the 21st IEEE International Conference on High-Performance Computing and Communications (HPCC 2019), the general chair of the 13th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2007), the general co-chair of the Second Workshop on Optics in Communications and Computer Sciences (1999), and the general chair for the Workshop on Optics in High-Performance Computing Systems (1996). For over 30 years, Dr. Louri has served and continues to serve on the executive and technical program committees of numerous international conferences, including the IEEE Symposium on High-Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA), the International Parallel &amp; Distributed Processing Symposium (IPDPS), the International Conference on Parallel Processing (ICPP), ACM/IEEE Symposium on Architectures for Networking &amp; Communication Systems (ANCS), IEEE/ACM International Symposium on Microarchitecture (Micro), the International Conference on Parallel Architectures &amp; Compilation Techniques (PACT), ACM/IEEE International Symposium on Networks-on-Chips (NOCS), IEEE Hot Interconnects, the Optical Society of America, meetings on Optics in Computing, among many others. He also was invited as a panel moderator of several conferences including NOCS, HPCA, and HPCC. He has served as a reviewer and panelist of funding agencies, including NSF, DARPA, DOE, AFOSR, Agence Nationale de la Recherche (France), Qatar National Research Foundation, Hong Kong National Research Council, European Research Council, among several others. He consults for industry and is often invited to be the keynote speaker at various conferences.</p><p>Dr. Louri is the Editor-in-Chief of the IEEE Transactions on Sustainable Computing (TSUSC) (2025 - ).  TSUSC (a joint publication between IEEE Computer Society and IEEE Communications Society, with Technical Sponsorship from the IEEE Council Electronic Design Automation (CEDA)) is a peer-reviewed journal devoted to publishing high-quality papers that explore the different aspects of sustainable computing over a wide range of problem domains and technologies from software and hardware designs to applications. Dr. Louri served as the Editor-in-Chief of the IEEE Transactions on Computers, the flagship journal of the IEEE Computer Society (CS) for five years,  January  2019 –  December 2023. Dr. Louri also served as associate editor of IEEE Transactions on Cloud Computing (2020 – ). Dr. Louri’s other  IEEE committee service includes being:&nbsp;<span style=\"font-size: 19.2px;\">2024 IEEE Computer Society (CS)  Transactions Operations Committee (TOC) Chair, member of the CS Board of Governors (2024), Chair for&nbsp;</span><span style=\"font-size: 19.2px;\">the IEEE CS Fellow Evaluation Committee (2019),&nbsp;</span><span style=\"font-size: 19.2px;\">Chair for the IEEE Computer Architecture Letters Editor-in-Chief Search Committee (2021), Chair&nbsp;</span><span style=\"font-size: 19.2px;\">for the IEEE Transactions on Cloud Computing Editor-in-Chief Search Committee (2019 and 2025),&nbsp;</span><span style=\"font-size: 19.2px;\">Vice-chair for the IEEE CS Fellow Evaluation Committee (2013, 2017, 2018,&nbsp;</span><span style=\"font-size: 19.2px;\">2021 and 2025) and member of the IEEE Fellow Evaluation Committee  (2022-2024), among several others.</span></p><p></p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at George Washington University, which he joined in August 2015. He is also the Director of the High-Performance Computing Architectures and Technologies Laboratory (HPCAT, https://hpcat.seas.gwu.edu/). Dr. Louri received a Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles, California in 1988. From 1988 to 2015, he was a Professor of Electrical and Computer Engineering at the University of Arizona, and during that time, he served six years (2000 to 2006) as the Chair of the Computer Engineering Program. Throughout his career, he has held invited visiting scientist positions and served as a research fellow at various institutions, including the University of Electro-Communications, Chofu, Japan; the Communications Research Laboratory, Tokyo, Japan; the Laboratoire d’Informatique du Parallelism, Lyon, France; the University of Tsukuba, Tsukuba, Japan; the University of Paul Sabatier, Toulouse, France; the Centre Nationale de Recherche Scientifique (CNRS), Toulouse, France.&nbsp;</p><p><span style=\"font-size: 19.2px;\">From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, scalable parallel computing systems, versatile and flexible computing systems, and power-efficient, reliable, and secure Network-on-Chips (NoCs) for multicore architectures. Recently, he has been concentrating on energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; secure network-on-chips for multicores and SoCs; approximate computing and communications; machine learning techniques for efficient computing, memory, and interconnect systems; heterogeneous manycore architectures &amp; chiplet-based designs; emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and chip multiprocessors (CMPs); future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); cloud-computing and data centers. He has published more than 200 refereed journal articles and peer-reviewed conference papers and is the inventor of several US and international patents. His early work explored optics’ unique properties to advance computing and communications. He was instrumental in bringing optical interconnects into mainstream research in computing and played a critical role in bridging the gap between the computer architecture and optics research communities. He received the Best Article Award from IEEE Micro and was runner-up for the Best Paper Award at several conferences.</span><br></p><p><span style=\"font-size: 19.2px;\">Dr. Louri is a Life Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of the IEEE Computer Society (CS) Technical Committee on Computer Architecture, the IEEE CS Technical Committee on Parallel Processing, the IEEE CS Technical Committee on Microprocessors &amp; Microcomputers, and the Optical Society of America. Dr. Louri is the recipient of the IEEE Computer Society 2020 Edward J. McCluskey Technical Achievement Award, \"for pioneering contributions to the solution of on-chip and off-chip communication problems for parallel computing and manycore architectures.” The IEEE Computer Society Edward J. McCluskey Technical Achievement Award is given for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10 to 15 years. Contributions must have significantly promoted technical progress in the field. <a href=\"https://www.computer.org/profiles/ahmed-louri\" class=\"text-primary\" target=\"_blank\">https://www.computer.org/profiles/ahmed-louri</a>. IEEE has made a video of the award which can be seen at the following link: <a href=\"https://www.youtube.com/watch?v=W-ejXgVxV9c\" class=\"text-primary\" target=\"_blank\">https://youtu.be/W-ejXgVxV9c</a>. He is also the recipient of the Office of Vice President for Research Distinguished Researcher Award, George Washington University, 2021. This award is given to one scholar who has made significant contributions in research and scholarship to the university and society. He is also the recipient of the NSF CAREER Award, the Advanced Telecommunications Organization of Japan Fellowship, the CNRS Research Excellence Fellowship, the Japan Society for the Promotion of Science Fellowship, and the NSF Outstanding Service Award in recognition of his outstanding service to the field of computing and the research community.</span></p><p>Dr. Louri served as the program area chair of the 34th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS 2020), the general chair for the 25th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2019), the general chair of the 21st IEEE International Conference on High-Performance Computing and Communications (HPCC 2019), the general chair of the 13th IEEE CS Annual Symposium of the High-Performance Computer Architecture (HPCA 2007), the general co-chair of the Second Workshop on Optics in Communications and Computer Sciences (1999), and the general chair for the Workshop on Optics in High-Performance Computing Systems (1996). For over 30 years, Dr. Louri has served and continues to serve on the executive and technical program committees of numerous international conferences, including the IEEE Symposium on High-Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA), the International Parallel &amp; Distributed Processing Symposium (IPDPS), the International Conference on Parallel Processing (ICPP), ACM/IEEE Symposium on Architectures for Networking &amp; Communication Systems (ANCS), IEEE/ACM International Symposium on Microarchitecture (Micro), the International Conference on Parallel Architectures &amp; Compilation Techniques (PACT), ACM/IEEE International Symposium on Networks-on-Chips (NOCS), IEEE Hot Interconnects, the Optical Society of America, meetings on Optics in Computing, among many others. He also was invited as a panel moderator of several conferences including NOCS, HPCA, and HPCC. He has served as a reviewer and panelist of funding agencies, including NSF, DARPA, DOE, AFOSR, Agence Nationale de la Recherche (France), Qatar National Research Foundation, Hong Kong National Research Council, European Research Council, among several others. He consults for industry and is often invited to be the keynote speaker at various conferences.</p><p>Dr. Louri is the Editor-in-Chief of the IEEE Transactions on Sustainable Computing (TSUSC) (2025 - ).  TSUSC (a joint publication between IEEE Computer Society and IEEE Communications Society, with Technical Sponsorship from the IEEE Council Electronic Design Automation (CEDA)) is a peer-reviewed journal devoted to publishing high-quality papers that explore the different aspects of sustainable computing over a wide range of problem domains and technologies from software and hardware designs to applications. Dr. Louri served as the Editor-in-Chief of the IEEE Transactions on Computers, the flagship journal of the IEEE Computer Society (CS) for five years,  January  2019 –  December 2023. Dr. Louri also served as associate editor of IEEE Transactions on Cloud Computing (2020 – ).</p><p></p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r8KuAgZ9TO",
           "_anchor": "content1-18",
           "_PHPplaceholders": [],
@@ -9680,11 +9683,11 @@
           "_anchor": "menu1-3q",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -9712,11 +9715,11 @@
           "_anchor": "header1-3p",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -10993,11 +10996,11 @@
           "_anchor": "menu1-3v",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -11025,11 +11028,11 @@
           "_anchor": "header1-3u",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -12049,11 +12052,11 @@
           "_anchor": "menu1-40",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -12081,11 +12084,11 @@
           "_anchor": "header1-3z",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -19316,11 +19319,11 @@
           "_anchor": "menu1-40",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -19348,11 +19351,11 @@
           "_anchor": "header1-3z",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -22671,11 +22674,11 @@
           "_JSplaceholders": [],
           "_cid": "thep99vO4E",
           "_anchor": "menu1-an",
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -22704,11 +22707,11 @@
           "_JSplaceholders": [],
           "_cid": "thep9amBuq",
           "_anchor": "content5-ao",
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -22821,11 +22824,11 @@
           "_JSplaceholders": [],
           "_cid": "thep9bFe9M",
           "_anchor": "testimonials2-ar",
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
@@ -22858,11 +22861,11 @@
           "_JSplaceholders": [],
           "_cid": "thep9c3b7G",
           "_anchor": "testimonials3-as",
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "_styles": {
