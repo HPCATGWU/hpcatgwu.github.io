@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=JsD4CS"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=JsD4CS" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=TIFFEL"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=TIFFEL" type="text/css">
 
   
   
@@ -106,7 +106,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Graph Processing &amp; Neural Network Accelerators</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Jiajun Li, Dr. Hao Zheng, Dr. Ke Wang, Yingnan Zhao, and Belal Jahannia</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Jiaqi Yang, Yingnan Zhao, Yuchen Jiang, Dr. Hao Zheng, and Dr. Ke Wang</h3>
                 
             </div>
         </div>
@@ -126,7 +126,7 @@
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-7"><br>Implementing graph processing &amp; neural network algorithms on hardware platforms could incur problems such as poor locality, uncertain access latency, and unbalanced workloads. These problems are more obvious in the commercial environment where natural graphs or data loads are both large-scale and irregular. Therefore, domain-specific accelerators for graph processing or neural networks are needed to achieve high-performance computing during hardware implementation. <br><br></p>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7"><br>As the size of both static and dynamic real-world graphs increases exponentially, graph-based processing and neural networks present significant challenges for conventional hardware platforms due to their irregular memory access patterns and high computational demands, often leading to substantial degradation in performance and energy efficiency. To address these issues, our research focuses on designing domain-specific accelerators that can efficiently support both static and dynamic graph workloads, with optimized performance and energy efficiency. Our research covers several critical areas: (1) Scalable dataflow architectures designed for irregular computation patterns, (2) Dynamic and static workload partitioning strategies to ensure balanced execution, (3) Intelligent memory systems that enhance data locality, reuse, and bandwidth utilization, and (4) Fine-grained parallelism and hardware-level optimizations to reduce latency and computational redundancy. We develop accelerator designs on FPGA and ASIC platforms, leveraging algorithm-hardware co-design principles to maintain high accuracy while pushing the limits of throughput and energy efficiency.<br></p>
                         </div>
                     </div>
                 </div>
@@ -154,8 +154,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Zhao, K. Wang, and A. Louri, “FSA: An Efficient Fault-Tolerant Systolic Array Based DNN Accelerator,” in <em>Proceedings of the 40th IEEE International Conference on Computer Design (ICCD)</em>, Lake Tahoe, CA, October 23-26, 2022</h3>
-                    <p class="mbr-fonts-style display-7">With the advent of Deep Neural Network (DNN) accelerators, permanent faults are increasingly becoming a serious challenge for DNN hardware accelerator, as they can severely degrade DNN inference accuracy. The State-of-the-art works address this issue by adding homogeneous redundant Processing Elements (PEs) to the DNN accelerator’s central computing array, or bypassing faulty PEs directly. However, such designs induce inference loss, extra hardware cost, and performance overhead. Moreover, current designs are able to only deal with a limited number of faults due to costs. In this work, we propose FSA, a Fault-tolerant Systolic Array-based DNN accelerator with the goal of maintaining DNN inference accuracy in the presence of permanent faults. The key feature of the proposed FSA is a unified re-computing module (RCM) that dynamically recalculates the required DNN computations that are supposed to be accomplished by faulty PEs with minimal latency and power consumption. Simulation results show that the proposed FSA reduces inference accuracy loss by 46%, improves execution time by 23%, and reduces energy consumption by 35% on average, as compared to existing designs.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Jiaqi Yang, Hao Zheng, and Ahmed Louri. “DiTile-DGNN: An Efficient Accelerator for Distributed Dynamic Graph Neural Network Inference.” to appear in Proceedings of IEEE International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 21-25, 2025.</h3>
+                    <p class="mbr-fonts-style display-7">Dynamic Graph Neural Networks (DGNNs) have recently emerged as a promising model for learning complex temporal and spatial relationships in evolving graphs. The performance of DGNNs is enabled by the simultaneous integration of both graph neural networks (GNNs) and recurrent neural networks (RNNs). Despite the theoretical advancements, the design space of such complex models has signicantly exploded due to the combinatorial challenges of heterogeneous computation kernels and intricate data dependency (i.e., intra- and inter-snapshot data dependency). This makes the computations of DGNN hard to scale, posing significant challenges in parallelism, data reuse, and communication. To address this challenge, we propose DiTile-DGNN, an efficient accelerator for large-scale DGNN execution. The proposed DiTile-DGNN consists of a redundancy-free parallelism strategy, workload balance optimization, and a reconfigurable accelerator architecture. Specifically, we propose a redundancy-free framework that can efficiently find an efficient parallelism strategy that can fully eliminate the data redundancy between graph snapshots while minimizing the communication complexity. Additionally, we propose a workload balance optimization for combined GNN and DGNN models to enhance resource utilization and eliminate synchronization overhead between snapshots. Lastly, we propose a reconfigurable accelerator architecture, with a flexible interconnect, that can be dynamically configured in support of various DGNN dataflows.<br></p>
                 </div>
               
             </div>
@@ -169,7 +169,7 @@
 
     <figure class="mbr-figure container">
         <div class="image-block" style="width: 68%;">
-            <img src="assets/images/wechat-screenshot-20221102102632-1400x621.png" alt="" title="">
+            <img src="assets/images/picture1-774x226.png" alt="" title="">
             
         </div>
     </figure>
@@ -183,8 +183,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">02.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, H. Zheng, K. Wang, and A. Louri, "SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator with Workload Balancing", <em>IEEE Transactions on Parallel and Distributed Systems</em>, 33.11 (2022): 2834-2845.</h3>
-                    <p class="mbr-fonts-style display-7">Convolutional Neural Networks (GCNs) have emerged as promising tools for graph-based machine learning applications. Given that GCNs are both compute- and memory-intensive, this constitutes a major challenge for the underlying hardware to efficiently process large-scale GCNs. In this project, we introduce SGCNAX, a scalable GCN accelerator architecture for the high-performance and energy-efficient acceleration of GCNs. Unlike prior GCN accelerators that either employ limited loop optimization techniques, or determine the design variables based on random sampling, we systematically explore the loop optimization techniques for GCN acceleration and propose a flexible GCN dataflow that adapts to different GCN configurations to achieve optimal efficiency. We further propose two hardware-based techniques to address the workload imbalance problem caused by the unbalanced distribution of zeros in GCNs. Specifically, SGCNAX exploits an outer-product-based computation architecture that mitigates the intra-PE (processing elements) workload imbalance, and employs a group-and-shuffle approach to mitigate the inter-PE workload imbalance. Simulation results show that SGCNAX performs 9.2 X, 1.6 X, and 1.2 X better, and reduces DRAM accesses by a factor of 9.7 X, 2.9 X, and 1.2 X compared to HyGCN, AWB-GCN, and GCNAX, respectively.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Jiaqi Yang, Hao Zheng, and Ahmed Louri, “I-DGNN: A Graph Dissimilarity-based Framework for Designing Scalable and Efficient DGNN Accelerators,” in Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, Nevada, March 1 – 5, 2025.&nbsp;</h3>
+                    <p class="mbr-fonts-style display-7">Dynamic Graph Neural Networks (DGNNs) have recently been used in numerous application domains, comprehending the intricate dynamics of time-evolving graph data. Despite their theoretical advancements, effectively implementing scalable DGNNs continues to be a formidable challenge due to the constantly evolving graph data and heterogeneous computation kernels. In this paper, we propose I-DGNN, a theoretical, architectural, and algorithmic framework with the aim of designing scalable and efficient accelerators for DGNN execution with improved performance and energy efficiency. On the theory side, the key idea is to identify essential computations between consecutive graph snapshots and encapsulate them as a separate kernel independent from the DGNN model. Specifically, the proposed one-pass DGNN computing model extracts the process of graph update as a chained matrix multiplication between evolving graphs through rigorous mathematical derivations. Consequently, consecutive snapshots utilize a one-pass computation kernel instead of passing through the entire DGNN execution pipeline, thereby eliminating the costly data movement of intermediate results across DGNN layers. On the architecture side, we propose a unified accelerator architecture that can be dynamically configured to support the computation characteristics of the proposed I-DGNN computing model with improved data and pipeline parallelism. On the algorithm side, we propose a new dataflow and mapping tailored for I-DGNN to further improve the data locality of inter-kernel data across the DGNN pipeline.<br></p>
                 </div>
               
             </div>
@@ -198,7 +198,7 @@
 
     <figure class="mbr-figure container">
         <div class="image-block" style="width: 45%;">
-            <img src="assets/images/sgcnax-877x889.png" alt="" title="">
+            <img src="assets/images/picture1-999x549.png" alt="" title="">
             
         </div>
     </figure>
@@ -212,13 +212,25 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">03.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">J. Li, A. Louri, A. Karanth, and R. Bunescu, "GCNAX: A Flexible and Energy-Efficient Accelerator for Graph Convolutional Neural Networks", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
-                    <p class="mbr-fonts-style display-7">Graph convolutional neural networks (GCNs) have emerged as an effective approach to extend deep learning for graph data analytics. Given that graphs are usually irregular, as nodes in a graph may have a varying number of neighbors, processing GCNs efficiently pose a significant challenge on the underlying hardware. Although specialized GCN accelerators have been proposed to deliver better performance over generic processors, prior accelerators not only under-utilize the compute engine, but also impose redundant data accesses that reduce throughput and energy efficiency. Therefore, optimizing the overall flow of data between compute engines and memory, i.e., the GCN dataflow, which maximizes utilization and minimizes data movement is crucial for achieving efficient GCN processing. In this project, we propose a flexible and optimized dataflow for GCNs that simultaneously improves resource utilization and reduces data movement. This is realized by fully exploring the design space of GCN dataflows and evaluating the number of execution cycles and DRAM accesses through an analysis framework. Unlike prior strategies, the proposed dataflow can reconfigure the loop order and loop fusion strategy to adapt to different GCN configurations, which results in much improved efficiency. We then introduce a novel accelerator architecture called GCNAX, which tailors the compute engine, buffer structure and size based on the proposed dataflow. Evaluated on five real-world graph datasets, our simulation results show that GCNAX reduces DRAM accesses by a factor of 8.1 X and 2.4 X, while achieving 8.9 X, 1.6 X, speedup and 9.5 X, 2.3 X energy savings on average over HyGCN and AWB-GCN, respectively.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">3.	Yingnan Zhao, Ke Wang, and Ahmed Louri, " A High-performance and Flexible Accelerator for Dynamic Graph Convolutional Networks," in Proceedings of Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE), Lyon, France, March 32 – April 2, 2025.</h3>
+                    <p class="mbr-fonts-style display-7">Dynamic Graph Convolutional Networks (DGCNs) have been applied to various dynamic graph-related applications, such as social networks, to achieve high inference accuracy. Typically, each DGCN layer consists of two distinct modules: a Graph Convolutional Network (GCN) module that captures spatial information, and a Recurrent Neural Network (RNN) module that extracts temporal information from input dynamic graphs. The different functionalities of these modules pose significant challenges for hardware platforms, particularly in achieving high-performance and energy-efficient inference processing. To this end, this paper introduces HiFlex, a high-performance and flexible accelerator designed for DGCN inference. At the architecture level, HiFlex implements multiple homogeneous processing elements (PEs) to perform main computations for GCN and RNN modules, along with a versatile interconnection fabric to optimize data communication and enhance on-chip data reuse efficiency. The flexible interconnection fabric can be dynamically configured to provide various on-chip topologies, supporting point-to-point and multicast communication patterns needed for GCN and RNN processing. At the algorithm level, HiFlex introduces a dynamic control policy that partitions, allocates, and configures hardware resources for distinct modules based on their computational requirements.<br></p>
                 </div>
               
             </div>
         </div>
     </div>
+</section>
+
+<section class="cid-uKlVACslcb" id="image2-g5">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 51%;">
+            <img src="assets/images/picture1-468x219.png" alt="" title="">
+            
+        </div>
+    </figure>
 </section>
 
 <section class="cid-rdPpVcF7FA" id="footer1-8l">

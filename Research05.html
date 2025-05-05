@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=QjiSC6"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=QjiSC6" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=UuEmps"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=UuEmps" type="text/css">
 
   
   
@@ -105,8 +105,8 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">Heterogeneous Chiplet-Based Architectures</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Dr. Hao Zheng, Yuan Li, and Jasmine Pillarisetti;</h3>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">Silicon Photonics Technologies for Network-on-Chips Interconnects and Neural Network Acceleration</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Current Researchers: Yuan Li, Juliana Curry, Ahmed Louri, Avinash Karanth, Razvan Bunescu, and Christian Schulte</h3>
                 
             </div>
         </div>
@@ -119,7 +119,10 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div>In the dark silicon era, only a fraction of transistors on a chip can be switched on simultaneously, due to the constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with multiple types of accelerators. The general-purpose cores and accelerators can be integrated on a single chip or in an emerging chiplet-based system. The integration of heterogeneous cores on a chip or in a chiplet-based system is putting stringent demands on the communication fabric, as the heterogeneous cores with different microarchitectures and programming models usually have distinct traffic patterns and sensitivities to network latency and bandwidth.</div><div><br></div><div>In this research project, we address the interconnection design challenges by fully exploring the traffic patterns of diverse types of cores and then designing the interconnection network which can be configured to adapt to specific traffic patterns. We are especially interested in utilizing the wiring resource in silicon interposer in chiplet systems to design the interconnection network.</div></div>
+            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><div>As computing demands surge with the growth of data-intensive applications and AI workloads, conventional electronic interconnects in manycore systems are reaching their limits in terms of bandwidth, energy efficiency, and scalability. Silicon photonics has emerged as a transformative technology to overcome these barriers by enabling high-bandwidth, low-latency, and energy-efficient communication within Network-on-Chip (NoC) architectures.</div><div><br></div><div>
+</div><div>Our research explores the use of silicon photonic interconnects to address the fundamental challenges in scaling communication for manycore processors. Photonic links eliminate electrical limitations such as resistance-capacitance (RC) delays and electromagnetic interference, offering a scalable solution for dense and high-performance NoC fabrics. However, challenges such as insertion loss, thermal sensitivity, and scalability beyond a few hundred cores remain open research problems.</div><div><br></div><div>
+</div><div>In parallel, silicon photonics offers promising capabilities for neural network acceleration, where data movement often dominates energy consumption. By integrating optical computing primitives—such as matrix-vector multipliers and optical memories—into photonic platforms, we can offload key operations of deep learning models into the optical domain, significantly reducing compute latency and energy per operation.
+<br><br></div><div>Our work focuses on the co-design of photonic hardware and network/AI workloads, aiming to unlock new levels of performance. We are particularly interested in hybrid interconnect architectures, and photonic-aware neural accelerators to support next-generation computing platforms.</div></div>
         </div>
     </div>
 </section>
@@ -132,8 +135,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Virtual Conference, April 2-6, 2022.</h3>
-                    <p class="mbr-fonts-style display-7">In pursuit of higher inference accuracy, deep neural network (DNN) models have significantly increased in complexity and size. To overcome the consequent computational challenges, scalable chiplet-based accelerators have been proposed. However, data communication using metallic-based interconnects in these chiplet-based DNN accelerators is becoming a primary obstacle to performance, energy efficiency, and scalability. The photonic interconnects can provide adequate data communication support due to some superior properties like low latency, high bandwidth and energy efficiency, and ease of broadcast communication. In this project, we propose SPACX: a Silicon Photonics-based Chiplet Accelerator for DNN inference applications. Specifically, SPACX includes a photonic network design that enables seamless single-chiplet and cross-chiplet broadcast communications, and a tailored dataflow that promotes data broadcast and maximizes parallelism. Furthermore, we explore the broadcast granularities of the photonic network and implications on system performance and energy efficiency. A flexible bandwidth allocation scheme is also proposed to dynamically adjust communication bandwidths for different types of data. Simulation results using several DNN models show that SPACX can achieve 78 percent and 75 percent reduction in execution time and energy, respectively, as compared to other state-of-the-art chiplet-based DNN accelerators.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">J. Curry, A. Louri, A. Karanth, and R. Bunescu, "PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices." 2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2024.</h3>
+                    <p class="mbr-fonts-style display-7">The convergence of edge computing and artificial intelligence requires that inference is performed on-device to provide rapid response with low latency and high accuracy without transferring large amounts of data to the cloud. However, power and size limitations make it challenging for electrical accelerators to support both inference and training for large neural network models. To this end, we propose Trident, a low-power photonic accelerator that combines the benefits of phase change material (PCM) and photonics to implement both inference and training in one unified architecture. Emerging silicon photonics has the potential to exploit the parallelism of neural network models, reduce power consumption and provide high bandwidth density via wavelength division multiplexing, making photonics an ideal candidate for on-device training and inference. As PCM is reconfigurable and non-volatile, we utilize it for two distinct purposes: (i) to maintain resonant wavelength without expensive electrical or thermal heaters, and (ii) to implement non-linear activation function, which eliminates the need to move data between memory and compute units. This multi-purpose use of PCM is shown to lead to significant reduction in energy consumption and execution time. Compared to photonic accelerators DEAP-CNN, CrossLight, and PIXEL, Trident improves energy efficiency by up to 43% and latency by up to 150% on average. Compared to electronic edge AI accelerators Google Coral which utilizes the Google Edge TPU and Bearkey TB96-AI, Trident improves energy efficiency by 11% and 93% respectively. While NVIDIA AGX Xavier is more energy efficient, the reduced data movement and GST activation of Trident reduce latency by 107% on average compared to the NVIDIA accelerator. When compared to Google Coral and the Bearkey TB96-AI, Trident reduces latency by 1413% and 595% on average.&nbsp;<br></p>
                 </div>
               
             </div>
@@ -147,7 +150,7 @@
 
     <figure class="mbr-figure container">
         <div class="image-block" style="width: 64%;">
-            <img src="assets/images/spacx-1348x632.png" alt="" title="">
+            <img src="assets/images/picture1-468x296.png" alt="" title="">
             
         </div>
     </figure>
@@ -161,8 +164,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">02.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects", in <em>Proceedings of the Design Automation Conference</em>, San Francisco, CA, December 5-9, 2021.</h3>
-                    <p class="mbr-fonts-style display-7">Chiplet-based architectures have been proposed to scale computing systems for deep neural networks (DNNs). Prior work has shown that for the chiplet-based DNN accelerators, the electrical network connecting the chiplets poses a major challenge to system performance, energy consumption, and scalability. Some emerging interconnect technologies such as silicon photonics can potentially overcome the challenges facing electrical interconnects as photonic interconnects provide high bandwidth density, superior energy efficiency, and ease of implementing broadcast and multicast operations that are prevalent in DNN inference. In this project, we propose a chiplet-based architecture named SPRINT for DNN inference. SPRINT uses a global buffer to simplify the data transmission between storage and computation, and includes two novel designs: (1) a reconfigurable photonic network that can support diverse communications in DN inference with minimal implementation cost, and (2) a customized dataflow that exploits the ease of broadcast and multicast feature of photonic interconnects to support highly parallel DNN computations. Simulation studies using ResNet-50 DNN&nbsp; model show&nbsp; that SPRNT achieves 46 percent and 61 percent execution time and energy consumption reduction, respectively, as compared to other state-of-the-art chiplet-based architectures with electrical or photonic interconnects.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth. "A high-performance and energy-efficient photonic architecture for multi-DNN acceleration." IEEE Transactions on Parallel and Distributed Systems 35, no. 1 (2023): 46-58.</h3>
+                    <p class="mbr-fonts-style display-7">Large-scale deep neural network (DNN) accelerators are poised to facilitate the concurrent processing of diverse DNNs, imposing demanding challenges on the interconnection fabric. These challenges encompass overcoming performance degradation and energy increase associated with system scaling while also necessitating flexibility to support dynamic partitioning and adaptable organization of compute resources. Nevertheless, conventional metallic-based interconnects frequently confront inherent limitations in scalability and flexibility. In this paper, we leverage silicon photonic interconnects and adopt an algorithm-architecture co-design approach to develop MDA, a DNN accelerator meticulously crafted to empower high-performance and energy-efficient concurrent processing of diverse DNNs. Specifically, MDA consists of three novel components: 1) a resource allocation algorithm that assigns compute resources to concurrent DNNs based on their computational demands and priorities; 2) a dataflow selection algorithm that determines off-chip and on-chip dataflows for each DNN, with the objectives of minimizing off-chip and on-chip memory accesses, respectively; 3) a flexible silicon photonic network that can be dynamically segmented into sub-networks, each interconnecting the assigned compute resources of a certain DNN while adapting to the communication patterns dictated by the selected on-chip dataflow. Simulation results show that the proposed MDA accelerator out-performs other state-of-the-art multi-DNN accelerators, including PREMA, AI-MT, Planaria, and HDA. MDA accelerator achieves a speedup of 3.6, accompanied by substantial improvements of 7.3×, 12.7×, and 9.2× in energy efficiency, service-level agreement (SLA) satisfaction rate, and fairness, respectively.&nbsp;<br></p>
                 </div>
               
             </div>
@@ -175,8 +178,8 @@
     
 
     <figure class="mbr-figure container">
-        <div class="image-block" style="width: 79%;">
-            <img src="assets/images/dac-1284x359.png" alt="" title="">
+        <div class="image-block" style="width: 54%;">
+            <img src="assets/images/picture1-468x282.png" alt="" title="">
             
         </div>
     </figure>
@@ -190,8 +193,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">03.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng, K. Wang, and A. Louri, "Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures", in <em>Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA)</em>, Virtual Conference, February 27 - March 3, 2021.</h3>
-                    <p class="mbr-fonts-style display-7">The increased computational capability in heterogeneous manycore architectures facilitates the concurrent execution of many applications. This requires, among other things, a flexible, high-performance, and energy-efficient communication fabric capable of handling a variety of traffic patterns needed for running multiple applications at the same time. Such stringent requirements are posing a major challenge for current Network-on-Chips (NoCs) design. In this project, we propose Adapt-NoC, a flexible NoC architecture, along with a reinforcement learning (RL)-based control policy, that can provide efficient communication support for concurrent application execution. Adapt-NoC can dynamically allocate several disjoint regions of the NoC, called subNoCs, with different sizes and locations for the concurrently running applications. Each of the dynamically-allocated subNoCs is capable of adapting to a given topology such as a mesh, cmesh, torus, or tree thus tailoring the topology to satisfy application's needs in terms of performance and power consumption. Moreover, we explore the use of RL to design an efficient control policy which optimizes the subNoC topology selection for a given application. As such, Adapt-NoC can not only provide several topology choices for concurrently running applications, but can also optimize the selection of the most suitable topology for a given application with the aim of improving performance and energy efficiency. We evaluate Adapt-NoC using both GPU and CPU benchmark suites. Simulation results show that the proposed Adapt-NoC can achieve up to 34 percent latency reduction, 10 percent overall execution time reduction and 53 percent NoC energy-efficiency improvement when compared to prior work.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth. "A silicon photonic multi-DNN accelerator." In 2023 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT), pp. 238-249. IEEE, 2023.</h3>
+                    <p class="mbr-fonts-style display-7">In shared environments like cloud-based datacenters, hardware accelerators are deployed to meet the scale-out computation demands of deep neural network (DNN) inference tasks. As conventional hardware accelerators optimized for single-DNN execution cannot effectively resolve the dynamic interaction of these inference-as-a-service (INFaaS) tasks, several multi-DNN hardware accelerators have been developed to improve the overall system performance while adhering to the constraints of individual tasks. Some of such multi-DNN hardware accelerators temporally schedule tasks by incorporating the preemption or load-balancing-based algorithm but suffer from resource underutilization because of unmanaged mismatch between resource demand and provision. Other multi-DNN hardware accelerators enable spatial colocation of tasks to improve resource utilization and system flexibility, but the irregular communication patterns between the fragmented resource partitions cannot be adequately supported by the metallic-based interconnects due to their rigidity and other inherent scaling limitations. We introduce a photonic multi-DNN accelerator named ASPIRE in this paper. The fundamental novelty of ASPIRE lies in the ability to adaptively create sub-accelerators for different tasks by assembling fine-grained resource partitions in the same architecture. Seamless communications between those fragmented resource partitions from a sub-accelerator are realized by exploiting photonic interconnects. Specifically, ASPIRE includes three novel designs: (1) a photonic network that can be adaptively partitioned into several sub-networks, each seamlessly connecting the fragmented resource partitions to construct sub-accelerators; (2) a dataflow that simultaneously leverages temporal and spatial data reuse opportunities within each resource partition and across several resource partitions, respectively; (3) an algorithm that allocates resource partitions at task granularity and derives optimal tile size and execution order at DNN layer granularity. Simulation studies show that A SPIRE outperforms other state-of-the-art multi-DNN accelerators, delivering 64% execution time reduction, 69% energy saving, 51% improvement in service-level agreement satisfaction rate, and 7.9× improvement in fairness.&nbsp;<br></p>
                 </div>
               
             </div>
@@ -204,8 +207,8 @@
     
 
     <figure class="mbr-figure container">
-        <div class="image-block" style="width: 81%;">
-            <img src="assets/images/adaptnoc-1987x514.png" alt="" title="">
+        <div class="image-block" style="width: 69%;">
+            <img src="assets/images/picture1-468x199.png" alt="" title="">
             
         </div>
     </figure>
@@ -219,8 +222,8 @@
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
                 <div class="mb-5">
                     <h4 class="counter">04.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">H. Zheng, K. Wang, and A. Louri, “A Versatile and Flexible Chiplet-based System Design for Heterogeneous Manycore Architectures”, in <em>Proceedings of Design Automation Conference</em>, Virtual Conference, July 20-24, 2020.</h3>
-                    <p class="mbr-fonts-style display-7">Heterogeneous manycore architectures are deployed to simultaneously run multiple and diverse applications. This requires various computing capabilities (CPUs, GPUs, and accelerators), and an efficient network-on-chip (NoC) architecture to concurrently handle diverse application communication behavior. However, supporting the concurrent communication requirements of diverse applications is challenging due to the dynamic application mapping, the complexity of handling distinct communication patterns and limited on-chip resources. In this project, we propose Adapt-NoC, a versatile and flexible NoC architecture for chiplet-based manycore architectures, consisting of adaptable routers and links. Adapt-NoC can dynamically allocate disjoint regions of the NoC, called subNoCs, for concurrently-running applications, each of which can be optimized for different communication behavior. The adaptable routers and links are capable of providing various subNoC topologies, satisfying different latency and bandwidth requirements of various traffic patterns (e.g. all-to-all, one-to-many). Full system simulation shows that AdaptNoC can achieve 31 percent latency reduction, 24 percent energy saving and 10 percent execution time reduction on average, when compared to prior designs.<br></p>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference", in Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA), Virtual Conference, April 2-6, 2022.</h3>
+                    <p class="mbr-fonts-style display-7">In pursuit of higher inference accuracy, deep neural network (DNN) models have significantly increased in complexity and size. To overcome the consequent computational challenges, scalable chiplet-based accelerators have been proposed. However, data communication using metallic-based interconnects in these chiplet-based DNN accelerators is becoming a primary obstacle to performance, energy efficiency, and scalability. The photonic interconnects can provide adequate data communication support due to some superior properties like low latency, high bandwidth and energy efficiency, and ease of broadcast communication. In this project, we propose SPACX: a Silicon Photonics-based Chiplet Accelerator for DNN inference applications. Specifically, SPACX includes a photonic network design that enables seamless single-chiplet and cross-chiplet broadcast communications, and a tailored dataflow that promotes data broadcast and maximizes parallelism. Furthermore, we explore the broadcast granularities of the photonic network and implications on system performance and energy efficiency. A flexible bandwidth allocation scheme is also proposed to dynamically adjust communication bandwidths for different types of data. Simulation results using several DNN models show that SPACX can achieve 78 percent and 75 percent reduction in execution time and energy, respectively, as compared to other state-of-the-art chiplet-based DNN accelerators.<br></p>
                 </div>
               
             </div>
@@ -233,8 +236,68 @@
     
 
     <figure class="mbr-figure container">
+        <div class="image-block" style="width: 59%;">
+            <img src="assets/images/picture1-468x219.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcDbSFlCT" id="content6-di">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">05.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "SPRINT: A High-Performance, Energy-Efficient, and Scalable Chiplet-based Accelerator with Photonic Interconnects for CNN Inference", IEEE Transactions on Parallel and Distributed Systems, 33.10 (2022): 2332-2345.</h3>
+                    <p class="mbr-fonts-style display-7">Chiplet-based convolution neural network (CNN) accelerators have emerged as a promising solution to provide substantial processing power and on-chip memory capacity for CNN inference. The performance of these accelerators is often limited by inter-chiplet metallic interconnects. Emerging technologies such as photonic interconnects can overcome the limitations of metallic interconnects due to several superior properties including high bandwidth density and distance-independent latency. However, implementing photonic interconnects in chiplet-based CNN accelerators is challenging and requires combined effort of network architectural optimization and CNN dataflow customization. In this project, we propose SPRINT, a chiplet-based CNN accelerator that consists of a global buffer and several accelerator chiplets. SPRINT introduces two novel designs: (1) a photonic inter-chiplet network that can adapt to specific communication patterns in CNN inference through wavelength allocation and waveguide reconfiguration, and (2) a CNN dataflow that can leverage the broadcasting capability of photonic interconnects while minimizing the costly electrical-to-optical and optical-to-electrical signal conversions. Simulations using multiple CNN models show that SPRINT achieves up to 76 percent and 68 percent reduction in execution time and energy consumption, respectively, as compared to other state-of-the-art chiplet-based architectures with either metallic or photonic interconnects.
+<br>
+<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-uKlRa9mndl" id="image2-g3">
+
+    
+
+    <figure class="mbr-figure container">
         <div class="image-block" style="width: 79%;">
-            <img src="assets/images/versatile-1815x478.png" alt="" title="">
+            <img src="assets/images/picture1-468x158.png" alt="" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="mbr-section article content12 cid-tlcDftNpDK" id="content6-dj">
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
+                <div class="mb-5">
+                    <h4 class="counter">06.</h4>
+                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, K. Wang, H. Zheng, A. Louri, and A. Karanth. "Ascend: A scalable and energy-efficient deep neural network accelerator with photonic interconnects." IEEE Transactions on Circuits and Systems I: Regular Papers 69, no. 7 (2022): 2730-2741.</h3>
+                    <p class="mbr-fonts-style display-7">The complexity and size of recent deep neural network (DNN) models have increased significantly in pursuit of high inference accuracy. Chiplet-based accelerator is considered a viable scaling approach to provide substantial computation capability and on-chip memory for efficient process of such DNN models. However, communication using metallic interconnects in prior chiplet-based accelerators poses a major challenge to system performance, energy efficiency, and scalability. Photonic interconnects can adequately support communication across chiplets due to features such as distance-independent latency, high bandwidth density, and high energy efficiency. Furthermore, the salient ease of broadcast property makes photonic interconnects suitable for DNN inference which often incurs prevalent broadcast communication. In this paper, we propose a scalable chiplet-based DNN accelerator with photonic interconnects named A SCEND . A SCEND introduces (1) a novel photonic network that supports seamless intra- and inter-chiplet broadcast communication, and flexible mapping of diverse convolution layers, and (2) a tailored dataflow that exploits the ease of broadcast property and maximizes parallelism by simultaneously processing computations with shared input data. Simulation results using multiple DNN models show that ASCEND achieves 71% and 67% reduction in execution time and energy consumption, respectively, as compared to other state-of-the-art chiplet-based DNN accelerators with metallic or photonic interconnects.&nbsp;<br></p>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-uKlRXgekxc" id="image2-g4">
+
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 79%;">
+            <img src="assets/images/picture1-468x132.png" alt="" title="">
             
         </div>
     </figure>
@@ -311,40 +374,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section article content12 cid-tlcDbSFlCT" id="content6-di">
-     
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
-                <div class="mb-5">
-                    <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects", in <em>Proceedings of the Design Automation Conference</em>, San Francisco, CA, December 5-9, 2021.</h3>
-                    <p class="mbr-fonts-style display-7">Chiplet-based architectures have been proposed to scale computing systems for deep neural networks (DNNs). Prior work has shown that for the chiplet-based DNN accelerators, the electrical network connecting the chiplets poses a major challenge to system performance, energy consumption, and scalability. Some emerging interconnect technologies such as silicon photonics can potentially overcome the challenges facing electrical interconnects as photonic interconnects provide high bandwidth density, superior energy efficiency, and ease of implementing broadcast and multicast operations that are prevalent in DNN inference. In this project, we propose a chiplet-based architecture named SPRINT for DNN inference. SPRINT uses a global buffer to simplify the data transmission between storage and computation, and includes two novel designs: (1) a reconfigurable photonic network that can support diverse communications in DN inference with minimal implementation cost, and (2) a customized dataflow that exploits the ease of broadcast and multicast feature of photonic interconnects to support highly parallel DNN computations. Simulation studies using ResNet-50 DNN&nbsp; model show&nbsp; that SPRNT achieves 46 percent and 61 percent execution time and energy consumption reduction, respectively, as compared to other state-of-the-art chiplet-based architectures with electrical or photonic interconnects.<br></p>
-                </div>
-              
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section article content12 cid-tlcDftNpDK" id="content6-dj">
-     
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5">
-                <div class="mb-5">
-                    <h4 class="counter">01.</h4>
-                    <h3 class="mb-3 mbr-fonts-style display-5">Y. Li, A. Louri, and A. Karanth, "Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects", in <em>Proceedings of the Design Automation Conference</em>, San Francisco, CA, December 5-9, 2021.</h3>
-                    <p class="mbr-fonts-style display-7">Chiplet-based architectures have been proposed to scale computing systems for deep neural networks (DNNs). Prior work has shown that for the chiplet-based DNN accelerators, the electrical network connecting the chiplets poses a major challenge to system performance, energy consumption, and scalability. Some emerging interconnect technologies such as silicon photonics can potentially overcome the challenges facing electrical interconnects as photonic interconnects provide high bandwidth density, superior energy efficiency, and ease of implementing broadcast and multicast operations that are prevalent in DNN inference. In this project, we propose a chiplet-based architecture named SPRINT for DNN inference. SPRINT uses a global buffer to simplify the data transmission between storage and computation, and includes two novel designs: (1) a reconfigurable photonic network that can support diverse communications in DN inference with minimal implementation cost, and (2) a customized dataflow that exploits the ease of broadcast and multicast feature of photonic interconnects to support highly parallel DNN computations. Simulation studies using ResNet-50 DNN&nbsp; model show&nbsp; that SPRNT achieves 46 percent and 61 percent execution time and energy consumption reduction, respectively, as compared to other state-of-the-art chiplet-based architectures with electrical or photonic interconnects.<br></p>
-                </div>
-              
             </div>
         </div>
     </div>
