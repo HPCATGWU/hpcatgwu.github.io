@@ -2325,6 +2325,9 @@ section.lazy-placeholder:after {
 .cid-r8KFTWrcqL .mbr-timeline-text {
   text-align: left;
 }
+.cid-r8KFTWrcqL .mbr-timeline-date {
+  text-align: center;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #acc7ea;
