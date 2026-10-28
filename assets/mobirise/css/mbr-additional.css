@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -541,11 +541,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 blockquote {
   border-color: #000000;
@@ -2730,8 +2730,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-siwAZBb7aP {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-siwAZBb7aP .mbr-section-subtitle {
@@ -2748,9 +2748,9 @@ section.lazy-placeholder:after {
   -webkit-flex-shrink: 0;
 }
 .cid-siwAZBb7aP .img-text {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
   border: 2px solid #efefef;
   border-radius: 50%;
 }
@@ -2791,7 +2791,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-r8KNWE2cRo {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -2822,32 +2822,13 @@ section.lazy-placeholder:after {
 .cid-r8KNWE2cRo .container {
   max-width: 1400px;
 }
-.cid-r8KneyFjHq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-r8KNWE2cRo P {
+  text-align: justify;
+  color: #232323;
 }
-.cid-r8KneyFjHq .title {
-  margin-bottom: 2rem;
-}
-.cid-r8KneyFjHq .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r8KneyFjHq a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-r8KneyFjHq a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r8KneyFjHq .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-r8KneyFjHq .input-group-btn {
-  display: block;
-  text-align: center;
+.cid-r8KNWE2cRo .card-title,
+.cid-r8KNWE2cRo .card-img {
+  text-align: left;
 }
 .cid-rdPqswQe6X {
   padding-top: 60px;
